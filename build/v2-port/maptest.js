@@ -1,0 +1,12 @@
+const {chromium}=require('playwright');
+(async()=>{const b=await chromium.launch();const p=await b.newPage({viewport:{width:390,height:844}});
+const errs=[];p.on('pageerror',e=>errs.push('ERR '+e.message));
+await p.goto('http://localhost:8820/index.html#x');await p.waitForTimeout(2500);
+await p.screenshot({path:'/home/claude/ie/test/m01-home.png'});
+await p.evaluate(()=>goTab('tab-tour'));await p.waitForTimeout(1500);
+await p.evaluate(()=>{const m=document.querySelector('#p-tour .sitmap');m&&m.scrollIntoView()});await p.waitForTimeout(1500);
+await p.screenshot({path:'/home/claude/ie/test/m02-tourmap.png'});
+await p.evaluate(()=>{const m=document.querySelector('#p-tour .sitmap');m&&m.click()});await p.waitForTimeout(2000);
+await p.screenshot({path:'/home/claude/ie/test/m03-big.png'});
+console.log(await p.evaluate(()=>[...document.querySelectorAll('svg image')].slice(0,12).map(i=>i.getAttribute('href')).join(' ')));
+console.log(errs);await b.close()})();

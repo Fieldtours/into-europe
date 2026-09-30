@@ -1,0 +1,695 @@
+{
+ "d8-1": {
+  "when": "15 FEB 1944",
+  "sort": "1944-02-15T00:00",
+  "ev": "Allied bombers destroy the Benedictine abbey on the mountain above Cassino.",
+  "q": {
+   "t": "What remains the most argued-over act of the Italian campaign?",
+   "o": [
+    "The landing at Anzio",
+    "The bombing of the abbey",
+    "The crossing of the Po"
+   ],
+   "a": 1,
+   "x": "The destruction of the abbey on 15 February 1944 remains the most argued-over act of the campaign."
+  },
+  "rem": "The abbey was destroyed on 15 February 1944 and rebuilt where it was, as it was.",
+  "solemn": false,
+  "st": "Founded by Saint Benedict around 529, the abbey above Cassino was destroyed from the air on 15 February 1944. Its bombing remains the most argued-over act of the Italian campaign, and the ruins it left became part of the battlefield. After the war it was rebuilt where it was, as it was, and it is the reason Cassino is famous. Today it is again a working monastery, with a museum, photographs of the ruins and wide views over the town and the Liri valley."
+ },
+ "d8-2": {
+  "when": "MAY 1944",
+  "sort": "1944-05-18T10:20",
+  "ev": "Soldiers of the Polish II Corps fall on the slopes below the abbey, far from a free Poland.",
+  "q": null,
+  "rem": "Many of these men reached Italy through Soviet camps and the Middle East, and could never go home to a free Poland.",
+  "solemn": true,
+  "st": "More than 1,000 soldiers of General Anders' Polish II Corps lie in this amphitheatre-shaped cemetery, which faces the abbey they fought to take. Many had come to Italy by way of Soviet camps and the Middle East, and could never return to a free Poland. Anders himself was buried among his men in 1970. Today the inscriptions at the entrance and on the terraces, Anders' grave and the small museum with its films and relics invite a quiet visit."
+ },
+ "d8-3": {
+  "when": "JAN–MAY 1944",
+  "sort": "1944-05-12T00:00",
+  "ev": "Americans, Indians and finally Poles fight for a bare, rocky summit north-west of the abbey.",
+  "q": {
+   "t": "Which troops fought last for Point 593?",
+   "o": [
+    "The New Zealanders",
+    "The Canadians",
+    "The Poles"
+   ],
+   "a": 2,
+   "x": "The US 34th Division and the 4th Indian Division fought here before the Poles, who came last."
+  },
+  "rem": "Point 593 shows the killing ground of the Cassino massif: rocks, thin soil and no cover.",
+  "solemn": false,
+  "st": "The white cross on Point 593 marks a summit that was fought over from January to May 1944. The US 34th Division, the 4th Indian Division and finally the Polish II Corps all attacked here. It is the best place to understand the killing ground of the Cassino massif, where rocks and thin soil gave almost no cover. Today a short, steep path leads up from the Polish cemetery, and from the top you can find the abbey, Albaneta farm and Snakeshead ridge."
+ },
+ "d8-4": {
+  "when": "15 MAR 1944",
+  "sort": "1944-03-15T08:30",
+  "ev": "New Zealanders take the castle above the town, and the Essex hold it against counter-attacks.",
+  "q": {
+   "t": "Who took Rocca Janula on 15 March 1944?",
+   "o": [
+    "New Zealanders",
+    "Polish cavalry",
+    "German paratroopers"
+   ],
+   "a": 0,
+   "x": "The castle was taken by New Zealanders on 15 March 1944 and then held by the 1/4th Essex and others."
+  },
+  "rem": "From Castle Hill you see the whole town battle and Hangman's Hill below the abbey.",
+  "solemn": false,
+  "st": "This medieval castle above Cassino was taken by New Zealanders on 15 March 1944, during the battle for the town. The 1/4th Essex Regiment and others then held it against fierce counter-attacks. From its walls the zigzag road climbs to the abbey, and the rubble zone of 1944 lay below. Today the castle, restored and reopened in 2015, has a memorial to the 4th Essex and gives the classic view of the town battle and Hangman's Hill."
+ },
+ "d8-5": {
+  "when": "JAN–MAY 1944",
+  "sort": "1944-01-17T00:00",
+  "ev": "The town of Cassino is fought over and completely destroyed, and its people endure the battle.",
+  "q": {
+   "t": "Whose experience does the Historiale help to keep in view?",
+   "o": [
+    "The bomber crews",
+    "The town's inhabitants",
+    "The French colonial troops"
+   ],
+   "a": 1,
+   "x": "It explains what Cassino's 20,000 inhabitants endured, a story easily lost among the military cemeteries."
+  },
+  "rem": "Cassino was a town of 20,000 people before it became a battlefield.",
+  "solemn": false,
+  "st": "Cassino's own museum opened in 2004 for the 60th anniversary of the battle, with rooms designed by the Oscar-winning effects artist Carlo Rambaldi. It explains the Gustav Line, the bombing and what the town's 20,000 inhabitants endured. That civilian story is easily lost among the military cemeteries around Cassino. Today a guided route leads through the war rooms, the bombing and the rebuilding of a town that had been completely destroyed."
+ },
+ "d8-6": {
+  "when": "JAN–MAY 1944",
+  "sort": "1944-05-18T12:00",
+  "ev": "Soldiers from across the Commonwealth fall in the battles for the mountain above this valley.",
+  "q": null,
+  "rem": "Thousands of names on the Cassino Memorial belong to men of the Italian campaign who have no known grave.",
+  "solemn": true,
+  "st": "This is the largest Commonwealth cemetery in Italy, with 4,271 graves. The Cassino Memorial beside it names more than 4,000 soldiers of the Italian campaign who have no known grave. British, New Zealand, Indian, Canadian, South African and Gurkha soldiers lie together below the mountain they fought for. Today you can walk the memorial panels by regiment and look up to see the abbey framed above the headstones."
+ },
+ "d8-7": {
+  "when": "JAN–MAY 1944",
+  "sort": "1944-05-18T13:00",
+  "ev": "German soldiers, among them the paratroopers who held Cassino, die in the battles of southern Italy.",
+  "q": null,
+  "rem": "About 20,000 German soldiers lie on this terraced slope, a sober counterpart to the Allied cemeteries.",
+  "solemn": true,
+  "st": "About 20,000 German soldiers who died in southern Italy lie on the terraced slope of Colle Marino. They were gathered here from many field graves in 1959–60, and the paratroopers who held Cassino are among them. The cemetery is a sober counterpart to the Allied cemeteries in the valley below. Today a climb to the bronze cross at the top gives a view back down the Rapido valley to Cassino and the abbey."
+ },
+ "d9-1": {
+  "when": "JAN–MAY 1944",
+  "sort": "1944-01-22T00:00",
+  "ev": "The Anzio landing and the battles at Cassino are brought to life in dioramas and vehicle halls.",
+  "q": {
+   "t": "What is Piana delle Orme especially good for?",
+   "o": [
+    "Families and vehicle enthusiasts",
+    "Researching individual graves",
+    "Walking the Anzio front line"
+   ],
+   "a": 0,
+   "x": "It is a huge private museum with a big vehicle collection, good for families and vehicle enthusiasts."
+  },
+  "rem": "Piana delle Orme is broad and family-friendly, but less focused than the museums at Anzio.",
+  "solemn": false,
+  "st": "This huge private museum tells the story of 20th-century life in the Pontine plain. Large pavilions cover the Second World War, with dioramas of the Anzio landing and Cassino and a big collection of vehicles. The Anzio pavilion includes the Rangers' battle and civilian shelters. Today it is good for families and vehicle enthusiasts, though less focused than the museums at Anzio and easy to skip on a short trip."
+ },
+ "d9-2": {
+  "when": "30 JAN 1944",
+  "sort": "1944-01-30T00:00",
+  "ev": "Two US Ranger battalions are caught in open fields near Isola Bella and destroyed.",
+  "q": {
+   "t": "What happened to the Rangers here on 30 January 1944?",
+   "o": [
+    "They took Cisterna",
+    "Two battalions were destroyed",
+    "They landed from the sea"
+   ],
+   "a": 1,
+   "x": "The roadside marker recalls the destruction of two US Ranger battalions on 30 January 1944."
+  },
+  "rem": "Cisterna held out until 25 May, when the US 3rd Division finally took the ruined town.",
+  "solemn": false,
+  "st": "On 30 January 1944 two US Ranger battalions were destroyed in the flat fields near Isola Bella, on the approach to Cisterna. A roadside marker and a Via dei Rangers sign now recall them. Cisterna itself held out for months, until the US 3rd Division took the ruined town on 25 May during the breakout. Today the ditch-crossed fields are quiet farmland, and it takes some imagination to see them in daylight with German armour on the road."
+ },
+ "d9-3": {
+  "when": "FEB 1944",
+  "sort": "1944-02-16T00:00",
+  "ev": "German attacks roll south from the Factory down the Via Anziate towards the sea.",
+  "q": {
+   "t": "What was 'the Factory'?",
+   "o": [
+    "A tank works in Anzio",
+    "The German name for Nettuno",
+    "Aprilia, a Fascist new town"
+   ],
+   "a": 2,
+   "x": "Aprilia, founded in 1936, became the German strongpoint that Allied soldiers called the Factory."
+  },
+  "rem": "Aprilia was the centre of the February fighting; the Via Anziate was the road to the sea.",
+  "solemn": false,
+  "st": "Aprilia was a Fascist new town founded in 1936, and its tower and buildings became the German strongpoint known as the Factory. It was the centre of the February fighting at Anzio. From here the German attacks rolled south down the Via Anziate towards the sea, trying to split the beachhead. Today Aprilia is a busy modern town; from the main square you can drive south past Carroceto and Campo di Carne, the heart of the defensive battle."
+ },
+ "d9-4": {
+  "when": "FEB–MAR 1944",
+  "sort": "1944-02-20T00:00",
+  "ev": "Commonwealth soldiers fall in the defensive battles along the Via Anziate.",
+  "q": null,
+  "rem": "These men lie beside the road the Germans were trying to reach.",
+  "solemn": true,
+  "st": "2,316 Commonwealth soldiers lie here, most of them killed in the defensive battles of February and March 1944 along the Via Anziate. Most are British, with Canadians, South Africans, Australians, Indians and New Zealanders among them. The cemetery lies on the road the Germans were trying to reach. Today you can walk the rows of the Guards, the London regiments and the Scots, and look north-east towards Aprilia, only a few kilometres away."
+ },
+ "d9-5": {
+  "when": "JAN–FEB 1944",
+  "sort": "1944-01-25T00:00",
+  "ev": "Men of the first weeks at Anzio are buried on the edge of the town.",
+  "q": null,
+  "rem": "Many of these men fell in the first weeks: the landing, Campoleone and the Factory.",
+  "solemn": true,
+  "st": "This smaller Commonwealth cemetery of 1,056 graves on the edge of Anzio was begun just after the landings. Many of those buried here were killed in the first weeks, in the landing, the advance on Campoleone and the fighting round the Factory. It is often quieter than the larger Beach Head cemetery. Today the dates on the headstones, in late January and February 1944, and the regiments of the British 1st Division and the commandos tell that story."
+ },
+ "d9-6": {
+  "when": "22 JAN 1944",
+  "sort": "1944-01-22T02:00",
+  "ev": "Allied troops land at Anzio and Nettuno, behind the German lines south of Rome.",
+  "q": {
+   "t": "Which ships are represented by objects raised from the sea?",
+   "o": [
+    "HMS Spartan and HMS Janus",
+    "USS Maddox and HMS Hood",
+    "The Bismarck and the Roma"
+   ],
+   "a": 0,
+   "x": "The museum shows objects raised from the cruiser HMS Spartan and the destroyer HMS Janus, both sunk off the beachhead."
+  },
+  "rem": "Villa Adele tells the landing from four sides: American, British, German and Italian.",
+  "solemn": false,
+  "st": "Anzio's landing museum opened for the 50th anniversary, with American, British, German and Italian sections. It displays uniforms, weapons, documents and maps, and objects raised from the sea. Among these are finds from the British cruiser HMS Spartan and the destroyer HMS Janus, both sunk off the beachhead. Today the relief maps of the beachhead give a clear picture of the landing, and the harbour is a short walk away."
+ },
+ "d9-7": {
+  "when": "22 JAN 1944",
+  "sort": "1944-01-22T02:30",
+  "ev": "The landing ships arrive off the Nettuno seafront, watched by a fort built in 1501.",
+  "q": {
+   "t": "How old is the fort that houses this museum?",
+   "o": [
+    "Roman",
+    "Renaissance, built in 1501",
+    "Built by the Allies in 1944"
+   ],
+   "a": 1,
+   "x": "Forte Sangallo is a Renaissance fort built in 1501 on the Nettuno seafront."
+  },
+  "rem": "The fort that watched the landing ships arrive in January 1944 had stood there since 1501.",
+  "solemn": false,
+  "st": "Forte Sangallo is a Renaissance fort built in 1501 on the Nettuno seafront. On 22 January 1944 it watched the Allied landing ships arrive off the coast. Its museum of the landing displays uniforms, helmets, documents, photographs and material found around Anzio and Nettuno. Today the period photographs show Nettuno under shellfire, and from the fort you can look out over the same sea."
+ },
+ "d9-8": {
+  "when": "1943–44",
+  "sort": "1944-06-04T12:00",
+  "ev": "Americans who died from Sicily to just north of Rome are laid to rest on ground taken on the first day.",
+  "q": null,
+  "rem": "7,858 Americans lie here, with 3,095 names of the missing on the chapel walls.",
+  "solemn": true,
+  "st": "7,858 Americans lie here, killed in the campaign from Sicily to just north of Rome. The chapel walls carry 3,095 names of the missing. The cemetery stands on ground captured by the US 3rd Division on 22 January 1944, the first day at Anzio. Today you walk under the pines to the memorial, and the visitor centre and map room, with a bronze relief map and fresco maps, explain the whole campaign clearly."
+ },
+ "d10-1": {
+  "when": "24 MAR 1944",
+  "sort": "1944-03-24T00:00",
+  "ev": "335 men and boys are taken to the quarries on the Via Ardeatina and killed.",
+  "q": null,
+  "rem": "Every one of the 335 victims of 24 March 1944 has his own tomb here.",
+  "solemn": true,
+  "st": "On 24 March 1944, the day after the attack in Via Rasella, 335 men and boys were killed in the quarries on this site. Italy's national memorial to them opened here in 1949. It is one of the most powerful memorials of the war anywhere, with the caves, a museum and a shrine where every victim has his own tomb. Today visitors walk through the tunnels and stand among the 335 tombs, many with photographs and names."
+ },
+ "d10-2": {
+  "when": "SEP 1943–JUN 1944",
+  "sort": "1943-09-12T00:00",
+  "ev": "Kappler's security police hold and torture prisoners in the cells of this building.",
+  "q": {
+   "t": "What can still be seen on the walls of the cells?",
+   "o": [
+    "Allied propaganda posters",
+    "Messages scratched by prisoners",
+    "Frescoes from the Renaissance"
+   ],
+   "a": 1,
+   "x": "The cells are preserved with the prisoners' messages scratched on the walls."
+  },
+  "rem": "Via Tasso is the best place in Rome to understand the occupation.",
+  "solemn": false,
+  "st": "During the German occupation of Rome, Herbert Kappler's security police imprisoned and tortured some 2,000 people in this building. Many of the Fosse Ardeatine victims passed through it. The cells are preserved, with the prisoners' messages scratched on the walls. Today the museum is the best place in Rome to understand the occupation, with sections on the Resistance and the persecution of Rome's Jews."
+ },
+ "d10-3": {
+  "when": "10 SEP 1943",
+  "sort": "1943-09-10T00:00",
+  "ev": "Italian soldiers and armed civilians fight German troops at the gate to keep them out of Rome.",
+  "q": {
+   "t": "How is the fight at Porta San Paolo remembered?",
+   "o": [
+    "As the first act of the Roman Resistance",
+    "As the day the Allies entered Rome",
+    "As the start of the Anzio landing"
+   ],
+   "a": 0,
+   "x": "The fight of 10 September 1943 is remembered as the first act of the Roman Resistance."
+  },
+  "rem": "Two days after the armistice, Romans fought here in a last attempt to keep the Germans out.",
+  "solemn": false,
+  "st": "On 10 September 1943, two days after the armistice, Italian soldiers and armed civilians fought German troops at this Roman gate. It was a last attempt to keep the Germans out of the city, and it failed. The fight is remembered as the first act of the Roman Resistance. Today plaques on the gate and the Aurelian Walls honour those who fell, with the Pyramid of Cestius standing beside them."
+ },
+ "d10-4": {
+  "when": "1944–45",
+  "sort": "1944-06-06T00:00",
+  "ev": "The garrison of liberated Rome buries its dead in a small walled cemetery in Testaccio.",
+  "q": null,
+  "rem": "Among the 426 graves are soldiers and airmen who died as prisoners in Rome.",
+  "solemn": true,
+  "st": "This small, walled Commonwealth cemetery holds 426 graves. It was used mainly for the garrison after the liberation of Rome, and it also holds soldiers and airmen who died as prisoners in the city. It sits in a quiet corner of Testaccio beside the Protestant Cemetery, a short walk from Porta San Paolo. Today it is locked outside gardeners' hours, and the Protestant Cemetery next door holds Keats and Shelley."
+ },
+ "d10-5": {
+  "when": "16 OCT 1943",
+  "sort": "1943-10-16T00:00",
+  "ev": "Before dawn German police round up Rome's Jews, most of them here in the old Ghetto.",
+  "q": null,
+  "rem": "Of 1,023 people deported from Rome to Auschwitz, only 16 came back.",
+  "solemn": true,
+  "st": "Before dawn on 16 October 1943 German police rounded up 1,259 people in Rome, most of them here in the old Ghetto. 1,023 were deported to Auschwitz, and only 16 came back. The square outside the Roman portico now bears the date of the round-up, Largo 16 Ottobre 1943. Today memorial plaques and brass Stolpersteine, stones of remembrance set into the pavements outside victims' homes, mark the loss."
+ },
+ "d10-6": {
+  "when": "5 JUN 1944",
+  "sort": "1944-06-05T00:00",
+  "ev": "The morning after American troops enter Rome, General Mark Clark holds a press conference here.",
+  "q": {
+   "t": "What pushed Italy off the front pages the day after Clark's press conference?",
+   "o": [
+    "The fall of Florence",
+    "The Normandy landings",
+    "The death of Mussolini"
+   ],
+   "a": 1,
+   "x": "On 6 June the Normandy landings pushed Italy off the front pages, where it largely stayed."
+  },
+  "rem": "For one day Rome was the world's headline; on 6 June Normandy took its place.",
+  "solemn": false,
+  "st": "American troops entered Rome on 4 June 1944, and the next morning General Mark Clark held his famous press conference on the Capitoline Hill. For a day Rome was the world's headline. Then the Normandy landings on 6 June pushed Italy off the front pages, where it largely stayed for the rest of the war. Today you can stand at the top of the Cordonata staircase and look over a city that was liberated almost undamaged."
+ },
+ "d10-7": {
+  "when": "23 MAR 1944",
+  "sort": "1944-03-23T00:00",
+  "ev": "Partisans of the GAP explode a bomb as a column of the German police regiment Bozen marches past.",
+  "q": {
+   "t": "How was the bomb in Via Rasella hidden?",
+   "o": [
+    "In a parked car",
+    "In a rubbish cart",
+    "Under the road surface"
+   ],
+   "a": 1,
+   "x": "The GAP partisans hid the bomb in a rubbish cart."
+  },
+  "rem": "The attack in Via Rasella led directly to the Fosse Ardeatine massacre the next day.",
+  "solemn": false,
+  "st": "On 23 March 1944 partisans of the GAP set off a bomb hidden in a rubbish cart in this steep, narrow street. A column of the German police regiment Bozen was marching past, and thirty-three policemen and several civilians died. The attack led directly to the Fosse Ardeatine massacre the next day. Today Via Rasella is a residential street near the Quattro Fontane crossroads, and the attack took place outside Palazzo Tittoni."
+ },
+ "d11-1": {
+  "when": "LATE JUN 1944",
+  "sort": "1944-06-20T00:00",
+  "ev": "British, South African and Canadian troops fight through the villages of the Trasimene Line.",
+  "q": {
+   "t": "Which village does the stop suggest visiting to see how houses dominate the road?",
+   "o": [
+    "Sanfatucchio",
+    "Sommocolonia",
+    "Gemmano"
+   ],
+   "a": 0,
+   "x": "A few kilometres south of Castiglione del Lago, Sanfatucchio shows how village houses dominated the road."
+  },
+  "rem": "In late June 1944 the lake's western shore was a German defence line, fought through village by village.",
+  "solemn": false,
+  "st": "In late June 1944 the western shore of Lake Trasimene was the German Trasimene Line. British, South African and Canadian troops fought through villages along the ridges, among them Sanfatucchio. Castiglione del Lago, on its promontory, is the natural viewpoint over that ground. Today you can walk the town walls for the view south over the lake shore, then drive a few kilometres to Sanfatucchio to see how its houses dominate the road."
+ },
+ "d11-2": {
+  "when": "16 JUL 1944",
+  "sort": "1944-07-16T00:00",
+  "ev": "After hard fighting, Arezzo falls to the British 6th Armoured and 2nd New Zealand Divisions.",
+  "q": null,
+  "rem": "Plots VII to IX hold soldiers of the 4th and 8th Indian Divisions, a reminder of how many Indian troops fought in Tuscany.",
+  "solemn": true,
+  "st": "Arezzo was defended hard in early July 1944 and taken on 16 July by the British 6th Armoured and 2nd New Zealand Divisions. This cemetery holds 1,266 Commonwealth burials from the advance up the upper Arno. Plots VII to IX contain the graves of soldiers of the 4th and 8th Indian Divisions. Today their headstones, with varied scripts and religious emblems, stand near the British and New Zealand rows."
+ },
+ "d11-3": {
+  "when": "JUL–SEP 1944",
+  "sort": "1944-08-15T00:00",
+  "ev": "Men killed in the approach to Florence and on the Arno line are buried in the valley east of the city.",
+  "q": null,
+  "rem": "Most of the 1,632 men here died between July and September 1944 on the way to Florence and the Arno line.",
+  "solemn": true,
+  "st": "In the Arno valley just east of Florence, this cemetery holds 1,632 Commonwealth burials. Most are men killed between July and September 1944 in the approach to the city and the fighting on the Arno line. The site was chosen in November 1944 for burials from nearby hospitals, and 83 graves were later moved here from the Arrow Route cemetery. Today the headstones carry the badges of British, South African, New Zealand and Indian units."
+ },
+ "d11-4": {
+  "when": "NIGHT 3–4 AUG 1944",
+  "sort": "1944-08-03T22:00",
+  "ev": "German engineers blow the bridges over the Arno, sparing only the Ponte Vecchio.",
+  "q": {
+   "t": "How did the Germans block the Ponte Vecchio instead of blowing it?",
+   "o": [
+    "They sank barges beneath it",
+    "They mined its shops",
+    "They demolished the streets at both ends"
+   ],
+   "a": 2,
+   "x": "Historians note the Germans chose to block the bridge by demolishing the medieval streets at both ends."
+  },
+  "rem": "The Ponte Vecchio survived, but the streets at both ends were destroyed and rebuilt after the war.",
+  "solemn": false,
+  "st": "On the night of 3–4 August 1944 the Germans blew the bridges of Florence, all except the Ponte Vecchio. Popular memory credits Hitler with sparing it, but historians note that the Germans chose instead to block it by demolishing the medieval streets at both ends. The shops and flats along Por Santa Maria, Borgo San Jacopo and Via Guicciardini are post-war reconstructions on that rubble line. Today you can look downstream to Ponte Santa Trinita, rebuilt in 1958 from stones raised from the Arno."
+ },
+ "d11-5": {
+  "when": "11 AUG 1944",
+  "sort": "1944-08-11T00:00",
+  "ev": "The Martinella bell rings from the tower, calling Florence's partisans to rise.",
+  "q": {
+   "t": "What signalled the rising of Florence's partisans on 11 August 1944?",
+   "o": [
+    "A radio message from London",
+    "The ringing of the Martinella bell",
+    "A flare fired from the Duomo"
+   ],
+   "a": 1,
+   "x": "The ringing of the Martinella bell in the Palazzo Vecchio tower signalled the rising."
+  },
+  "rem": "The bell in this tower called the rising, but fighting went on in the northern suburbs for weeks.",
+  "solemn": false,
+  "st": "On 11 August 1944, as the Germans withdrew north of Florence, the Martinella bell in the Palazzo Vecchio tower rang out. It signalled the rising of the city's partisans and the Tuscan liberation committee. Fighting went on in the northern suburbs for weeks, with snipers and shelling, and more than 600 civilians were killed during the battle for the city. Today the square is always open, and the river where the two sides faced each other is three minutes' walk away."
+ },
+ "dd-1": {
+  "when": "12 AUG 1944",
+  "sort": "1944-08-12T00:00",
+  "ev": "In a single morning SS troops kill about 560 civilians in this mountain village.",
+  "q": null,
+  "rem": "Most of those killed here were women, children and elderly people.",
+  "solemn": true,
+  "st": "On a single morning in August 1944, SS troops killed about 560 civilians in this mountain village above the Versilia coast. Most of them were women, children and elderly people. The whole village is now a memorial and a National Park of Peace. Today visitors find a museum, the church square where many were killed, the Via Crucis path and the ossuary monument looking out over the coast."
+ },
+ "d12-1": {
+  "when": "1944–45",
+  "sort": "1944-09-10T00:00",
+  "ev": "Americans who fall after Rome, in the Gothic Line battles and the push to the Alps, are buried south of Florence.",
+  "q": null,
+  "rem": "Many men of the 85th, 88th and 91st Divisions who fell at Il Giogo lie here.",
+  "solemn": true,
+  "st": "This is the only American Second World War cemetery north of Rome. It holds 4,402 US dead, most of them killed after Rome fell, in the Gothic Line battles and the final push to the Alps. The Tablets of the Missing list 1,409 names. Many men of the 85th, 88th and 91st Divisions who fell at Il Giogo lie here. Today the curved terraces lead up to the memorial, where operations maps trace the campaign from Rome to the Alps."
+ },
+ "d12-2": {
+  "when": "SEP 1944",
+  "sort": "1944-09-12T00:00",
+  "ev": "The 1944 battles for the Mugello passes are told through documents, testimonies and recovered equipment.",
+  "q": {
+   "t": "Who runs the MuGot museum?",
+   "o": [
+    "The Italian army",
+    "The CWGC",
+    "Volunteers"
+   ],
+   "a": 2,
+   "x": "MuGot is a volunteer-run museum founded in 2019 between the Futa and Giogo passes."
+  },
+  "rem": "MuGot is the best place to get oriented before climbing to the Futa and Giogo passes.",
+  "solemn": false,
+  "st": "MuGot is a volunteer-run museum founded in 2019 between the Futa and Giogo passes. It tells the story of the 1944 battles in the Mugello through documents, filmed testimonies, uniforms and recovered equipment. Its guides also lead visits to the battlefields and bunkers of the Gothic Line. Today it is the best place to get oriented before climbing to the passes, and worth asking about the battlefield tour to Monte Altuzzo."
+ },
+ "d12-3": {
+  "when": "12–18 SEP 1944",
+  "sort": "1944-09-12T06:00",
+  "ev": "US II Corps fights up Monte Altuzzo and Monticelli against German paratroopers to break the Gothic Line.",
+  "q": {
+   "t": "Why did the breakthrough at Il Giogo matter?",
+   "o": [
+    "It outflanked the stronger Futa Pass",
+    "It opened the road to Naples",
+    "It freed Rome"
+   ],
+   "a": 0,
+   "x": "Breaking through at Il Giogo outflanked the stronger Futa Pass."
+  },
+  "rem": "The Americans broke the Gothic Line at the lesser pass, outflanking the stronger Futa.",
+  "solemn": false,
+  "st": "In September 1944 US II Corps broke the Gothic Line in the central Apennines here, after six days of fighting up Monte Altuzzo and Monticelli against German paratroopers. The breakthrough at this lesser pass outflanked the stronger Futa Pass nearby. It was the key American success of the Gothic Line battles. Today a 5.2 km waymarked ring trail from the pass leads to trenches and positions on Monte Altuzzo."
+ },
+ "d12-4": {
+  "when": "AUTUMN 1944",
+  "sort": "1944-09-18T12:00",
+  "ev": "German defenders of the Gothic Line fall in the mountains around the Futa Pass.",
+  "q": null,
+  "rem": "More than 30,600 German dead lie in terraces spiralling up a hilltop on the old Gothic Line.",
+  "solemn": true,
+  "st": "Italy's largest German war cemetery holds more than 30,600 dead, gathered from across the region. The graves are of the defenders of the Gothic Line and of men from every Italian front after Rome. Designed by Dieter Oesterlen and dedicated in 1969, its terraces spiral up a hilltop on the old Line, following a 2 km stone wall to a sharp, prow-like summit. Today the view from the top takes in the Futa and Giogo passes."
+ },
+ "d12-5": {
+  "when": "29 SEP 1944",
+  "sort": "1944-09-29T00:00",
+  "ev": "Villagers sheltering with their priest in the church at Casaglia are led into the cemetery and shot.",
+  "q": null,
+  "rem": "About 770 civilians were killed in the Monte Sole massacre.",
+  "solemn": true,
+  "st": "Casaglia lies at the heart of the Marzabotto massacre of 29 September to 5 October 1944, in which about 770 civilians were killed. At the church of Santa Maria Assunta, villagers who had taken refuge with their priest, Don Ubaldo Marchioni, were led into the cemetery and shot. The Monte Sole Historical Park, created in 1989, preserves the ruins of hamlets, churches and farms. Today a short walk leads from the road to the church ruins and the cemetery."
+ },
+ "d12-6": {
+  "when": "29 SEP–5 OCT 1944",
+  "sort": "1944-09-29T12:00",
+  "ev": "The massacre on Monte Sole takes hundreds of lives in the hills above Marzabotto.",
+  "q": null,
+  "rem": "The crypt holds the remains of hundreds of victims of Monte Sole and of partisans killed nearby.",
+  "solemn": true,
+  "st": "In the crypt of the parish church of Saints Joseph and Charles, inaugurated in the early 1960s, lie the remains of hundreds of victims of the Monte Sole massacre and of partisans killed in the area. Plaques honour those decorated for their sacrifice. Among them are the priest Don Giovanni Fornasini and the Stella Rossa commander Mario Lupo Musolesi. Today visitors can read the names on the tombs and see the paintings and bronzes by Stella Angelini."
+ },
+ "dd-2": {
+  "when": "26 DEC 1944",
+  "sort": "1944-12-26T00:00",
+  "ev": "US 92nd Division soldiers and Italian partisans are overrun, and Lieutenant Fox calls fire onto his own position.",
+  "q": {
+   "t": "When did Lieutenant John Fox receive his Medal of Honor?",
+   "o": [
+    "In 1945",
+    "In 1997",
+    "It was never awarded"
+   ],
+   "a": 1,
+   "x": "Fox was killed on 26 December 1944; his Medal of Honor came only in 1997."
+  },
+  "rem": "Lieutenant John Fox called artillery onto his own position to cover the withdrawal; recognition came only in 1997.",
+  "solemn": false,
+  "st": "On 26 December 1944 about 70 soldiers of the African-American 92nd Buffalo Division and 25 Italian partisans were overrun in this Garfagnana hill village. Lieutenant John Fox called artillery fire onto his own position to cover the withdrawal, and was killed. His Medal of Honor came only in 1997. Today a Memory Park at the ruined tower opposite the parish church, a 10-minute walk from the lower car park, recalls them."
+ },
+ "dd-0": {
+  "when": "1944–45",
+  "sort": "1945-01-01T00:00",
+  "ev": "The Brazilian Expeditionary Force buries its dead at Pistoia.",
+  "q": null,
+  "rem": "463 Brazilian soldiers were buried here until they were taken home to Rio de Janeiro in 1960.",
+  "solemn": true,
+  "st": "The Brazilian Expeditionary Force buried its dead here, 463 men in all. They remained until 1960, when they were repatriated to Rio de Janeiro. A modernist votive monument by Olavo Redig de Campos, opened in 1967, now marks the site of the former cemetery. Today visitors find the open pavilion, the stone terraces of the old cemetery and the tomb of an unknown Brazilian soldier."
+ },
+ "d12-7": {
+  "when": "21 APR 1945",
+  "sort": "1945-04-21T00:00",
+  "ev": "On liberation day families pin photographs of their dead to the wall where partisans were executed.",
+  "q": null,
+  "rem": "More than 2,000 tiles carry the names and faces of partisans who died between 1943 and 1945.",
+  "solemn": true,
+  "st": "On 21 April 1945, the day Bologna was liberated, families began pinning photographs of their dead to the wall of Palazzo d'Accursio. Many partisans had been executed at this spot. The permanent memorial by Giuseppe Vaccaro opened on 25 April 1955 and holds more than 2,000 ceramic tiles with the names and faces of partisans who died between 1943 and 1945. Today it stands in the city centre, a few steps from Piazza Maggiore."
+ },
+ "d13-3": {
+  "when": "31 AUG 1944",
+  "sort": "1944-08-31T00:00",
+  "ev": "The walled hilltop village is taken, and Lieutenant Gerard Norton wins the Victoria Cross.",
+  "q": {
+   "t": "Who won the Victoria Cross at Montegridolfo?",
+   "o": [
+    "Tom Hunter",
+    "Anders Lassen",
+    "Gerard Norton"
+   ],
+   "a": 2,
+   "x": "Lieutenant Gerard Norton won the Victoria Cross when the village was taken on 31 August 1944."
+  },
+  "rem": "Montegridolfo fell on 31 August 1944; its museum tells the Gothic Line story from both sides and from the civilians.",
+  "solemn": false,
+  "st": "This walled hilltop village was taken on 31 August 1944, and Lieutenant Gerard Norton won the Victoria Cross in the fighting. A small local museum 300 metres from the centre tells the story of the Gothic Line from both sides and from the civilians caught between them. Newspapers, photographs, weapons and everyday objects from 1943–44, many donated by villagers, fill its rooms. Today the walls give a view over the Foglia valley."
+ },
+ "d13-5": {
+  "when": "4–13 SEP 1944",
+  "sort": "1944-09-04T00:00",
+  "ev": "British and Canadian troops fight for the last ridge before Rimini.",
+  "q": null,
+  "rem": "In the week after the ridge fell, Eighth Army was losing some 150 killed a day.",
+  "solemn": true,
+  "st": "The largest Commonwealth cemetery of the Adriatic Gothic Line holds 1,939 burials: 1,413 British, 427 Canadian, 52 New Zealand and 28 South African. It lies on the slopes of the ridge fought over from 4 to 13 September 1944. In the week after the ridge was captured, Eighth Army was losing some 150 killed a day. The cemetery was begun in April 1945. Today the Canadian headstones of the 5th Armoured Division face up the slope towards Coriano village."
+ },
+ "d13-4": {
+  "when": "4–15 SEP 1944",
+  "sort": "1944-09-04T06:00",
+  "ev": "British divisions attack the hilltop village again and again against German mountain troops.",
+  "q": {
+   "t": "Who took the last positions at Gemmano on 15 September 1944?",
+   "o": [
+    "The 4th Indian Division",
+    "The 2nd New Zealand Division",
+    "The Polish II Corps"
+   ],
+   "a": 0,
+   "x": "After repeated British attacks, the 4th Indian Division took the last positions on 15 September."
+  },
+  "rem": "Gemmano changed hands repeatedly; more than 100 villagers were killed, many by naval shelling.",
+  "solemn": false,
+  "st": "Between 4 and 15 September 1944 this hilltop village and the heights around it were attacked again and again by the British 46th and 56th Divisions. The 4th Indian Division finally took the last positions on 15 September. The German mountain troops holding it suffered heavily, and more than 100 villagers were killed, many by naval shelling. Today, from the village, you look out over Zollara and the knolls and spurs that changed hands repeatedly."
+ },
+ "d13-2": {
+  "when": "AUG–SEP 1944",
+  "sort": "1944-09-20T00:00",
+  "ev": "Commonwealth soldiers fall in the advance from Ancona to Rimini and the fighting around Rimini.",
+  "q": null,
+  "rem": "Canadian, British and other Commonwealth soldiers of this coastal sector lie side by side below Gradara castle.",
+  "solemn": true,
+  "st": "The cemetery holds 1,191 Commonwealth burials and one Belgian. They come from the advance from Ancona to Rimini, which broke the Gothic Line, and from the heavy fighting around Rimini until its capture on 21 September 1944. Canadian, British and other Commonwealth soldiers who fought through this coastal sector lie side by side. Today you can walk the terraces and look up at the medieval castle of Gradara on its hill above the coast road."
+ },
+ "d13-7": {
+  "when": "21 SEP 1944",
+  "sort": "1944-09-21T08:00",
+  "ev": "The 3rd Greek Mountain Brigade enters the abandoned, heavily bombed city.",
+  "q": {
+   "t": "Which unit became known as the Rimini Brigade?",
+   "o": [
+    "The 1st Canadian Brigade",
+    "The 3rd Greek Mountain Brigade",
+    "The 4th Indian Brigade"
+   ],
+   "a": 1,
+   "x": "The 3rd Greek Mountain Brigade entered Rimini on 21 September 1944 and was afterwards known as the Rimini Brigade."
+  },
+  "rem": "About 82 per cent of Rimini's buildings were destroyed, the highest share among Italy's larger cities.",
+  "solemn": false,
+  "st": "Rimini was bombed from November 1943 onwards, and about 82 per cent of its buildings were destroyed, the highest share among Italy's larger cities. On the morning of 21 September 1944 the 3rd Greek Mountain Brigade, fighting with I Canadian Corps, entered the abandoned city. The brigade was afterwards known as the Rimini Brigade. Today the Roman Tiberius bridge, which survived the war, leads into an old centre where plain post-war buildings stand between the monuments."
+ },
+ "d13-6": {
+  "when": "AUTUMN 1944",
+  "sort": "1944-09-22T00:00",
+  "ev": "Soldiers of the Indian Army, many of them Gurkhas, fall around Rimini and San Marino.",
+  "q": null,
+  "rem": "The Rimini Cremation Memorial names 172 Indian Army soldiers cremated in accordance with their faith.",
+  "solemn": true,
+  "st": "This quiet cemetery holds 618 soldiers of the Indian Army, many of them Gurkhas, who died in the autumn 1944 fighting around Rimini and San Marino. It also holds the Rimini Cremation Memorial, one of three in Italy. The memorial names 172 soldiers of the Indian Army whose bodies were cremated in accordance with their faith. Today Nepali names can be read on the Gurkha headstones, with San Marino rising to the south-west."
+ },
+ "d13-1": {
+  "when": "21 APR 1945",
+  "sort": "1945-04-21T00:00",
+  "ev": "Polish troops enter Bologna at the end of the last offensive.",
+  "q": null,
+  "rem": "They fell on Italian soil fighting for a free Poland, a cause the peace did not deliver for most of them.",
+  "solemn": true,
+  "st": "Here lie 1,432 soldiers of General Anders' Polish II Corps who died in 1944–45, many in the last offensive and the drive on Bologna. Polish troops entered the city on 21 April 1945. The inscription says that they fell on Italian soil fighting for a free Poland, a cause that for most of them the peace did not deliver. Today the headstones differ in shape by faith, and many were deportees released from the Soviet Union in 1942."
+ },
+ "d14-1": {
+  "when": "WINTER 1944–45",
+  "sort": "1945-01-01T00:00",
+  "ev": "The front lies along the high embankments of the Senio, sometimes with both sides on the same levee.",
+  "q": {
+   "t": "When was Alfonsine liberated?",
+   "o": [
+    "21 September 1944",
+    "10 April 1945",
+    "2 May 1945"
+   ],
+   "a": 1,
+   "x": "Alfonsine was liberated on 10 April 1945, the day after the final offensive began."
+  },
+  "rem": "All winter the two sides faced each other across the Senio embankments, sometimes on the same levee.",
+  "solemn": false,
+  "st": "For the winter of 1944–45 the front lay along the high embankments of the Senio, with Germans and Allies sometimes on opposite sides of the same levee. Alfonsine was liberated on 10 April 1945, the day after the final offensive began. The museum, founded in 1981, covers the Allied operations, the Romagna partisans and civilian life under occupation. Today its maps of the Senio front and photographs of Kangaroo and Fantail vehicles explain the fighting in the flooded plain."
+ },
+ "d14-2": {
+  "when": "EARLY APR 1945",
+  "sort": "1945-04-01T00:00",
+  "ev": "British commandos and the Special Boat Service open the offensive on the spit and lagoons of Lake Comacchio.",
+  "q": {
+   "t": "Where are Tom Hunter and Anders Lassen buried?",
+   "o": [
+    "At Argenta",
+    "At Anzio",
+    "At Cassino"
+   ],
+   "a": 0,
+   "x": "Both men won posthumous Victoria Crosses at Lake Comacchio and are buried at Argenta."
+  },
+  "rem": "Two posthumous Victoria Crosses were won at Comacchio, by Tom Hunter and Anders Lassen.",
+  "solemn": false,
+  "st": "In early April 1945 British commandos and the Special Boat Service opened the final offensive on the spit and lagoons of Lake Comacchio. Corporal Tom Hunter of 43 Commando and Major Anders Lassen, a Dane serving with the SBS, won posthumous Victoria Crosses here. The eastern side of the lagoon became the right flank of the drive on Argenta. Today the lagoon roads and paths cross protected wetland, where assault boats once stuck in the shallows by night."
+ },
+ "d14-4": {
+  "when": "18 APR 1945",
+  "sort": "1945-04-18T00:00",
+  "ev": "British V Corps takes Argenta, and armour pours through the Gap towards Ferrara and the Po.",
+  "q": {
+   "t": "Why was Argenta so important?",
+   "o": [
+    "It had the last bridge over the Po",
+    "It sat on a narrow strip of dry ground",
+    "It was Kesselring's headquarters"
+   ],
+   "a": 1,
+   "x": "Argenta sits on the narrow strip of dry ground between the Reno and the flooded Valli di Comacchio."
+  },
+  "rem": "Once Argenta fell, armour could pour through the Gap and turn the German river line.",
+  "solemn": false,
+  "st": "Argenta sits on a narrow strip of dry ground between the Reno and the flooded Valli di Comacchio. Once British V Corps took the town on 18 April 1945, armour could pour through the Gap towards Ferrara and the Po. That turned the whole German defence line along the rivers. The town was heavily damaged in the fighting. Today, from the Reno embankment at the edge of town, you can see how thin the corridor of dry land really is."
+ },
+ "d14-3": {
+  "when": "APR 1945",
+  "sort": "1945-04-18T12:00",
+  "ev": "Commonwealth soldiers fall in the last hard battle in Italy, in the Argenta Gap and at Lake Comacchio.",
+  "q": null,
+  "rem": "Anders Lassen VC, Tom Hunter VC and Arthur Banks GC lie among the dead of the last hard battle in Italy.",
+  "solemn": true,
+  "st": "This is the cemetery of the last hard battle in Italy. It holds 625 Commonwealth burials, most of them men killed in the Argenta Gap and around Lake Comacchio in April 1945. Among them are Anders Lassen VC, Tom Hunter VC and the George Cross holder Arthur Banks, an RAF pilot who fought alongside Italian partisans. Today the entrance is reached across private land, and from the headstones you look east across the flat fields the 78th and 56th Divisions crossed."
+ },
+ "d14-6": {
+  "when": "23 APR 1945",
+  "sort": "1945-04-23T00:00",
+  "ev": "The US 10th Mountain Division makes the first Allied crossing of the Po in assault boats.",
+  "q": {
+   "t": "Who made the first Allied crossing of the Po?",
+   "o": [
+    "The 8th Indian Division",
+    "The US 10th Mountain Division",
+    "The 6th South African Armoured Division"
+   ],
+   "a": 1,
+   "x": "The US 10th Mountain Division crossed here in assault boats on 23 April 1945."
+  },
+  "rem": "The first Allied crossing of the Po was made here, the day after the 10th Mountain reached the river.",
+  "solemn": false,
+  "st": "The first Allied crossing of the Po was made here by the US 10th Mountain Division on 23 April 1945, in assault boats, the day after it reached the river. Within days the division was pushing up Lake Garda towards the Alps. The town itself grew round the great Benedictine abbey of Polirone. Today you can stand on the embankment, picture the boats pushing off, and then visit the abbey square."
+ },
+ "d14-5": {
+  "when": "24 APR 1945",
+  "sort": "1945-04-24T00:00",
+  "ev": "Eighth Army crosses the Po with little opposition, past banks littered with abandoned German guns and vehicles.",
+  "q": {
+   "t": "How much opposition did Eighth Army meet crossing the Po from 24 April?",
+   "o": [
+    "Little opposition",
+    "A fierce counter-attack",
+    "A week-long siege"
+   ],
+   "a": 0,
+   "x": "With every bridge down and the German armies pinned against the river, the crossing met little opposition."
+  },
+  "rem": "By late April 1945 the German armies were pinned against the Po with every bridge down.",
+  "solemn": false,
+  "st": "By 23–24 April 1945 the German armies were pinned against the Po with every bridge down. Eighth Army's 8th Indian, 56th and 2nd New Zealand Divisions crossed from 24 April with little opposition, while upstream the 6th South African Armoured Division crossed with the US Fifth Army. The banks were littered with abandoned guns and vehicles, and the Adige followed on 27 April. Today the embankment looks across several hundred metres of fast water that thousands of Germans tried to swim."
+ }
+}
