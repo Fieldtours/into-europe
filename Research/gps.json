@@ -1,0 +1,317 @@
+[
+ {
+  "key": "d4-7",
+  "name": "Museo dello Sbarco e Salerno Capitale, Salerno",
+  "old": [
+   40.66,
+   14.799
+  ],
+  "new": [
+   40.64696,
+   14.8174
+  ],
+  "off_m": 2124,
+  "why": "Museum is at Via Generale Clark 5 in eastern Salerno; old point was ~2.1 km NW, in the city centre",
+  "source": "https://mapcarta.com/N2626774758"
+ },
+ {
+  "key": "m2",
+  "name": "Museo dello Sbarco e Salerno Capitale",
+  "old": [
+   40.66,
+   14.799
+  ],
+  "new": [
+   40.64696,
+   14.8174
+  ],
+  "off_m": 2124,
+  "why": "Museum is at Via Generale Clark 5 in eastern Salerno; old point was ~2.1 km NW, in the city centre",
+  "source": "https://mapcarta.com/N2626774758"
+ },
+ {
+  "key": "d9-1",
+  "name": "Piana delle Orme museum, near Latina",
+  "old": [
+   41.44,
+   13.005
+  ],
+  "new": [
+   41.44332,
+   12.98401
+  ],
+  "off_m": 1788,
+  "why": "Museum is at Strada Migliara 43, Borgo Faiti; old AREA point was ~1.8 km east of it",
+  "source": "https://www.tracesofwar.com/sights/1190/Museum-Piana-delle-Orme.htm"
+ },
+ {
+  "key": "m14",
+  "name": "Museo Piana delle Orme",
+  "old": [
+   41.44,
+   13.005
+  ],
+  "new": [
+   41.44332,
+   12.98401
+  ],
+  "off_m": 1788,
+  "why": "Museum is at Strada Migliara 43, Borgo Faiti; old AREA point was ~1.8 km east of it",
+  "source": "https://www.tracesofwar.com/sights/1190/Museum-Piana-delle-Orme.htm"
+ },
+ {
+  "key": "d9-2",
+  "name": "Rangers memorial, Isola Bella near Cisterna",
+  "old": [
+   41.57,
+   12.8
+  ],
+  "new": [
+   41.5614,
+   12.8086
+  ],
+  "off_m": 1194,
+  "why": "Rangers marker stands at the Isola Bella crossroads on Via Nettuno near Via Enrico Toti; old AREA point was ~1.2 km NW",
+  "source": "https://www.uswarmemorials.org/html/site_details.php?SiteID=1368"
+ },
+ {
+  "key": "tl28",
+  "name": "Cisterna — two Ranger battalions destroyed",
+  "old": [
+   41.57,
+   12.8
+  ],
+  "new": [
+   41.5614,
+   12.8086
+  ],
+  "off_m": 1194,
+  "why": "Consistency with d9-2 (same place); within tolerance for a timeline pin but aligned to the corrected point",
+  "source": "https://www.uswarmemorials.org/html/site_details.php?SiteID=1368"
+ },
+ {
+  "key": "d2-3",
+  "name": "Museo Storico dello Sbarco in Sicilia 1943, Catania",
+  "old": [
+   37.5117,
+   15.0978
+  ],
+  "new": [
+   37.50912,
+   15.1022
+  ],
+  "off_m": 483,
+  "why": "Pin was ~480 m NW of the Le Ciminiere complex (Viale Africa) that houses the museum",
+  "source": "https://mapcarta.com/W34314616"
+ },
+ {
+  "key": "m0",
+  "name": "Museo Storico dello Sbarco in Sicilia 1943",
+  "old": [
+   37.5117,
+   15.0978
+  ],
+  "new": [
+   37.50912,
+   15.1022
+  ],
+  "off_m": 483,
+  "why": "Pin was ~480 m NW of the Le Ciminiere complex (Viale Africa) that houses the museum",
+  "source": "https://mapcarta.com/W34314616"
+ },
+ {
+  "key": "d9-8",
+  "name": "Sicily–Rome American Cemetery and Memorial, Nettuno",
+  "old": [
+   41.46528,
+   12.65833
+  ],
+  "new": [
+   41.46472,
+   12.66194
+  ],
+  "off_m": 307,
+  "why": "Pin was ~300 m NW of the entrance; ABMC gives 41°27'53\"N 12°39'43\"E for the cemetery at Piazzale Kennedy 1",
+  "source": "https://api.abmc.gov/Sicily-Rome"
+ },
+ {
+  "key": "dd20",
+  "name": "Sicily–Rome American Cemetery, Nettuno",
+  "old": [
+   41.46528,
+   12.65833
+  ],
+  "new": [
+   41.46472,
+   12.66194
+  ],
+  "off_m": 307,
+  "why": "Pin was ~300 m NW of the entrance; ABMC gives 41°27'53\"N 12°39'43\"E for the cemetery at Piazzale Kennedy 1",
+  "source": "https://api.abmc.gov/Sicily-Rome"
+ },
+ {
+  "key": "d3-4",
+  "name": "Sacrario di Cristo Re, Messina",
+  "old": [
+   38.1986,
+   15.5497
+  ],
+  "new": [
+   38.19636,
+   15.55176
+  ],
+  "off_m": 307,
+  "why": "Pin was ~300 m NW of the Sacrario di Cristo Re church (OSM way)",
+  "source": "https://mapcarta.com/de/W155441515"
+ },
+ {
+  "key": "dd4",
+  "name": "Sacrario di Cristo Re, Messina",
+  "old": [
+   38.1986,
+   15.5497
+  ],
+  "new": [
+   38.19636,
+   15.55176
+  ],
+  "off_m": 307,
+  "why": "Pin was ~300 m NW of the Sacrario di Cristo Re church (OSM way)",
+  "source": "https://mapcarta.com/de/W155441515"
+ },
+ {
+  "key": "tl12",
+  "name": "Messina — Patton wins the race",
+  "old": [
+   38.1986,
+   15.5497
+  ],
+  "new": [
+   38.19636,
+   15.55176
+  ],
+  "off_m": 307,
+  "why": "Consistency with dd4 (same place); within tolerance for a timeline pin but aligned to the corrected point",
+  "source": "https://mapcarta.com/de/W155441515"
+ },
+ {
+  "key": "d2-7",
+  "name": "Robert Capa Photography Museum, Troina",
+  "old": [
+   37.7845,
+   14.5975
+  ],
+  "new": [
+   37.78516,
+   14.60053
+  ],
+  "off_m": 276,
+  "why": "Museum is in Palazzo Pretura, Via Conte Ruggero 1, beside the town hall on Piazza Conte Ruggero; old point was ~275 m west (new pin = town hall next door)",
+  "source": "https://mapcarta.com/N7947217904"
+ },
+ {
+  "key": "m1",
+  "name": "Museo della Fotografia Robert Capa",
+  "old": [
+   37.7845,
+   14.5975
+  ],
+  "new": [
+   37.78516,
+   14.60053
+  ],
+  "off_m": 276,
+  "why": "Museum is in Palazzo Pretura, Via Conte Ruggero 1, beside the town hall on Piazza Conte Ruggero; old point was ~275 m west (new pin = town hall next door)",
+  "source": "https://mapcarta.com/N7947217904"
+ },
+ {
+  "key": "tl9",
+  "name": "Troina — the battle of the Big Red One",
+  "old": [
+   37.7845,
+   14.5975
+  ],
+  "new": [
+   37.78516,
+   14.60053
+  ],
+  "off_m": 276,
+  "why": "Consistency with m1 (same place); within tolerance for a timeline pin but aligned to the corrected point",
+  "source": "https://mapcarta.com/N7947217904"
+ },
+ {
+  "key": "dd-2",
+  "name": "Sommocolonia — Lieutenant Fox memorial",
+  "old": [
+   44.09222,
+   10.49139
+  ],
+  "new": [
+   44.09443,
+   10.49281
+  ],
+  "off_m": 271,
+  "why": "Fox marker is in the upper park of the village (Via del Saltello); old point was the village centroid ~270 m away",
+  "source": "https://www.uswarmemorials.org/html/site_details.php?SiteID=1482"
+ },
+ {
+  "key": "dd28",
+  "name": "Sommocolonia — Lieutenant Fox memorial",
+  "old": [
+   44.09222,
+   10.49139
+  ],
+  "new": [
+   44.09443,
+   10.49281
+  ],
+  "off_m": 271,
+  "why": "Fox marker is in the upper park of the village (Via del Saltello); old point was the village centroid ~270 m away",
+  "source": "https://www.uswarmemorials.org/html/site_details.php?SiteID=1482"
+ },
+ {
+  "key": "d12-6",
+  "name": "Sacrario dei Caduti, Marzabotto",
+  "old": [
+   44.34297,
+   11.20593
+  ],
+  "new": [
+   44.34106,
+   11.20459
+  ],
+  "off_m": 238,
+  "why": "Sacrario (crypt of the parish church, Via Aldo Moro 2A) is ~240 m SW of the old point",
+  "source": "https://appenninobolognese.cittametropolitana.bo.it/it/luoghi/piazze-vie-monumenti/sacrario-ai-caduti"
+ },
+ {
+  "key": "d9-7",
+  "name": "Museo dello Sbarco Alleato, Forte Sangallo, Nettuno",
+  "old": [
+   41.4554,
+   12.658
+  ],
+  "new": [
+   41.45662,
+   12.65599
+  ],
+  "off_m": 216,
+  "why": "Pin was ~210 m SE of Forte Sangallo",
+  "source": "https://mapcarta.com/28166750"
+ },
+ {
+  "key": "m13",
+  "name": "Museo dello Sbarco Alleato",
+  "old": [
+   41.4554,
+   12.658
+  ],
+  "new": [
+   41.45662,
+   12.65599
+  ],
+  "off_m": 216,
+  "why": "Pin was ~210 m SE of Forte Sangallo",
+  "source": "https://mapcarta.com/28166750"
+ }
+]

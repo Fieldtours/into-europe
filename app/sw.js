@@ -1,8 +1,8 @@
 /* Into Europe service worker — keeps the guides working without internet */
-const CORE="ie-core", DATA="ie-data", VERSION="v1";
+const CORE="ie-core2", DATA="ie-data2", VERSION="v2";
 const CORE_FILES=["./","index.html","welcome.jpg","welcome-wide.jpg","site.webmanifest","favicon.ico","favicon-32.png","favicon-16.png","apple-touch-icon.png","icon-192.png","icon-512.png","icon-maskable-512.png","fonts/stardos-stencil-400.woff2","fonts/stardos-stencil-700.woff2","fonts/special-elite-400.woff2","fonts/courier-prime-400.woff2","fonts/courier-prime-700.woff2"];
 self.addEventListener("install",e=>{e.waitUntil(caches.open(CORE).then(c=>Promise.all(CORE_FILES.map(f=>fetch(f,{cache:"no-store"}).then(r=>r.ok&&c.put(f,r)).catch(()=>{})))).then(()=>self.skipWaiting()))});
-self.addEventListener("activate",e=>{e.waitUntil(caches.keys().then(ks=>Promise.all(ks.filter(k=>k!==CORE&&k!==DATA&&k!=="ie-seen").map(k=>caches.delete(k)))).then(()=>self.clients.claim()))});
+self.addEventListener("activate",e=>{e.waitUntil(caches.keys().then(ks=>Promise.all(ks.filter(k=>k!==CORE&&k!==DATA&&k!=="ie-seen2").map(k=>caches.delete(k)))).then(()=>self.clients.claim()))});
 async function fromCache(req){const u=new URL(req.url),p=u.pathname,last=p.split("/").pop();
   return (await caches.match(req,{ignoreSearch:true}))||(last&&!last.includes(".")?await caches.match(last+".html"):null)||(p.endsWith("/")?await caches.match("index.html"):null)}
 /* audio players ask for byte ranges; answer them from the saved file */
@@ -22,5 +22,5 @@ self.addEventListener("fetch",e=>{
   /* PDFs: always from the web */
   if(/\/pdf\//.test(p))return;
   /* maps, fonts, icons: saved copy first; anything fetched is kept for next time */
-  e.respondWith(fromCache(req).then(r=>r||fetch(req).then(res=>{if(res.ok){const c=res.clone();caches.open(/\/maps\//.test(p)?"ie-seen":CORE).then(x=>x.put(req,c))}return res})));
+  e.respondWith(fromCache(req).then(r=>r||fetch(req).then(res=>{if(res.ok){const c=res.clone();caches.open(/\/maps\//.test(p)?"ie-seen2":CORE).then(x=>x.put(req,c))}return res})));
 });
