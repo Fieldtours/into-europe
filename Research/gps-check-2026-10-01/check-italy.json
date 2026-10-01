@@ -1,0 +1,166 @@
+[
+ {
+  "key": "d2-1",
+  "name": "Primosole Bridge, Simeto river",
+  "conf": "HIGH",
+  "marker": [
+   37.39944,
+   15.065
+  ],
+  "should_be": [
+   37.4085,
+   15.0652
+  ],
+  "off_m": 1008,
+  "what": "Marker is ~1 km south of the river crossing, on the SS114 near Ponte Benanti. The SS114 bridge over the Simeto (OSM 'Viadotto Primosole') and the Operation Fustian memorial beside it are at 37.4085,15.0652. The marker copies Wikipedia's rounded coordinate (37°23'58\"N 15°03'54\"E), which is not on the river.",
+  "source": "OSM: Viadotto Primosole + 'WWII Operation Fustian memorial'; https://en.wikipedia.org/wiki/Operation_Fustian (source of the imprecise coordinate)"
+ },
+ {
+  "key": "dd6",
+  "name": "Primosole Bridge",
+  "conf": "HIGH",
+  "marker": [
+   37.39944,
+   15.065
+  ],
+  "should_be": [
+   37.4085,
+   15.0652
+  ],
+  "off_m": 1008,
+  "what": "Marker is ~1 km south of the river crossing, on the SS114 near Ponte Benanti. The SS114 bridge over the Simeto (OSM 'Viadotto Primosole') and the Operation Fustian memorial beside it are at 37.4085,15.0652. The marker copies Wikipedia's rounded coordinate (37°23'58\"N 15°03'54\"E), which is not on the river.",
+  "source": "OSM: Viadotto Primosole + 'WWII Operation Fustian memorial'; https://en.wikipedia.org/wiki/Operation_Fustian (source of the imprecise coordinate)"
+ },
+ {
+  "key": "tl6",
+  "name": "Primosole Bridge — paratroops against paratroops",
+  "conf": "HIGH",
+  "marker": [
+   37.39944,
+   15.065
+  ],
+  "should_be": [
+   37.4085,
+   15.0652
+  ],
+  "off_m": 1008,
+  "what": "Marker is ~1 km south of the river crossing, on the SS114 near Ponte Benanti. The SS114 bridge over the Simeto (OSM 'Viadotto Primosole') and the Operation Fustian memorial beside it are at 37.4085,15.0652. The marker copies Wikipedia's rounded coordinate (37°23'58\"N 15°03'54\"E), which is not on the river.",
+  "source": "OSM: Viadotto Primosole + 'WWII Operation Fustian memorial'; https://en.wikipedia.org/wiki/Operation_Fustian (source of the imprecise coordinate)"
+ },
+ {
+  "key": "tl44",
+  "name": "Monte Castello — the Brazilians take their mountain",
+  "conf": "MEDIUM",
+  "marker": [
+   44.22062,
+   10.95377
+  ],
+  "should_be": [
+   44.21261,
+   10.96502
+  ],
+  "off_m": 1264,
+  "what": "Text sends the visitor to 'the Brazilian monument on the slopes above Gaggio Montano' to look up at the summit, but the marker is on the Monte Castello summit itself, 1.26 km from the monument. Either move the marker to the monument or rewrite the text.",
+  "source": "OSM: Monumento ai Caduti Brasiliani"
+ },
+ {
+  "key": "tl41",
+  "name": "Coriano Ridge — the last ridge before Rimini",
+  "conf": "MEDIUM",
+  "marker": [
+   43.96907,
+   12.60055
+  ],
+  "should_be": [
+   43.96519,
+   12.60237
+  ],
+  "off_m": 455,
+  "what": "Text says 'from the rebuilt village on the crest'. The marker is ~455 m north of the Coriano village node and 516 m from the castle, in the outskirts with no landmarks within 375 m. It is at the edge of the MEDIUM tolerance and not in the village the text describes.",
+  "source": "OSM: Coriano (place=village), Castello di Coriano"
+ },
+ {
+  "key": "d9-3",
+  "name": "Aprilia ('the Factory') and the Via Anziate",
+  "conf": "MEDIUM",
+  "marker": [
+   41.5947,
+   12.6544
+  ],
+  "should_be": [
+   41.59368,
+   12.64853
+  ],
+  "off_m": 501,
+  "what": "Text says 'stand in the main square' (Piazza Roma, the Palazzo Comunale). The marker is ~490 m east, near Parco Manaresi/Chiesa di Cristo. That is 501 m from the Palazzo Comunale on the square, just outside the MEDIUM tolerance, and not at the square the text names.",
+  "source": "OSM: Municipio di Aprilia; https://www.comune.aprilia.lt.it/luogo/palazzo-comunale (Piazza Roma 1)"
+ },
+ {
+  "key": "tl30",
+  "name": "Aprilia, 'the Factory' — the German counter-offensive",
+  "conf": "MEDIUM",
+  "marker": [
+   41.5947,
+   12.6544
+  ],
+  "should_be": [
+   41.59368,
+   12.64853
+  ],
+  "off_m": 501,
+  "what": "Text says 'stand in the main square' (Piazza Roma, the Palazzo Comunale). The marker is ~490 m east, near Parco Manaresi/Chiesa di Cristo. That is 501 m from the Palazzo Comunale on the square, just outside the MEDIUM tolerance, and not at the square the text names.",
+  "source": "OSM: Municipio di Aprilia; https://www.comune.aprilia.lt.it/luogo/palazzo-comunale (Piazza Roma 1)"
+ },
+ {
+  "key": "d1-2",
+  "name": "Gela seafront and pier, Gela",
+  "conf": "MEDIUM",
+  "marker": [
+   37.066,
+   14.247
+  ],
+  "should_be": null,
+  "off_m": null,
+  "what": "Text says 'seafront and pier' / 'stand on the seafront by the pier'. The marker is up in the old town (Quartiere Carmine, next to Piazza Martiri della Libertà), about 400 m inland from the Lungomare Federico II. The pier root's exact position was not confirmed from an independent source. Separately, the pier is due to be demolished and rebuilt (ANSA, June 2026), so the text may need updating.",
+  "source": "OSM: Quartiere Carnine / Giardino del Belvedere; https://www.ansa.it/sicilia/notizie/2026/06/15/il-pontile-sul-lungomare-di-gela-teatro-dello-sbarco-alleato-sara-demolito_6365089c-2725-4121-9945-551d0a7fe117.html"
+ },
+ {
+  "key": "tl2",
+  "name": "Gela — Rangers and 1st Division storm ashore",
+  "conf": "MEDIUM",
+  "marker": [
+   37.066,
+   14.247
+  ],
+  "should_be": null,
+  "off_m": null,
+  "what": "Text says 'seafront and pier' / 'stand on the seafront by the pier'. The marker is up in the old town (Quartiere Carmine, next to Piazza Martiri della Libertà), about 400 m inland from the Lungomare Federico II. The pier root's exact position was not confirmed from an independent source. Separately, the pier is due to be demolished and rebuilt (ANSA, June 2026), so the text may need updating.",
+  "source": "OSM: Quartiere Carnine / Giardino del Belvedere; https://www.ansa.it/sicilia/notizie/2026/06/15/il-pontile-sul-lungomare-di-gela-teatro-dello-sbarco-alleato-sara-demolito_6365089c-2725-4121-9945-551d0a7fe117.html"
+ },
+ {
+  "key": "d14-5",
+  "name": "The Po at Pontelagoscuro, Ferrara",
+  "conf": "AREA",
+  "marker": [
+   44.89,
+   11.608
+  ],
+  "should_be": null,
+  "off_m": null,
+  "what": "Marker sits on the SS16 road bridge over the Po (OSM 'Via Padova' bridge nodes 55 m away), at its northern (Santa Maria Maddalena, Veneto) end: over the water or on the far bank, not at Pontelagoscuro. Pontelagoscuro is on the south bank, ~1.3 km away. Text says 'walk up the embankment'. Move it to the south levee at Pontelagoscuro; the exact levee point was not verified (river geometry is not in the local data).",
+  "source": "OSM: Via Padova bridge, Delegazione di S.M. Maddalena, Pontelagoscuro (place=village)"
+ },
+ {
+  "key": "d4-5",
+  "name": "Sele–Calore corridor, near Ponte Barizzo",
+  "conf": "AREA",
+  "marker": [
+   40.53,
+   15.04
+  ],
+  "should_be": null,
+  "off_m": null,
+  "what": "Name says 'near Ponte Barizzo', but Ponte Barizzo (hamlet and park) is 4.6 km SW, on the other side of the Sele. The marker itself is a reasonable point in the Sele–Calore corridor near Borgo Carillia/Persano. Rename the stop rather than move it, or confirm which Calore bridge the text means.",
+  "source": "OSM: Ponte Barizzo (place=hamlet), Persano"
+ }
+]

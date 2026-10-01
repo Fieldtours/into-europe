@@ -1,0 +1,93 @@
+[
+ {
+  "key": "d9-3",
+  "name": "Aprilia ('the Factory') and the Via Anziate",
+  "old": [
+   41.5947,
+   12.6544
+  ],
+  "new": [
+   41.59368,
+   12.64853
+  ],
+  "why": "Piazza Roma / town hall, as the text says 'stand in the main square' (OSM)"
+ },
+ {
+  "key": "tl30",
+  "name": "Aprilia, 'the Factory' — the German counter-offensive",
+  "old": [
+   41.5947,
+   12.6544
+  ],
+  "new": [
+   41.59368,
+   12.64853
+  ],
+  "why": "Aprilia main square (OSM)"
+ },
+ {
+  "key": "tl41",
+  "name": "Coriano Ridge — the last ridge before Rimini",
+  "old": [
+   43.96907,
+   12.60055
+  ],
+  "new": [
+   43.96519,
+   12.60237
+  ],
+  "why": "Coriano village on the crest, as the text says (OSM)"
+ },
+ {
+  "key": "d1-2",
+  "name": "Gela seafront and pier, Gela",
+  "old": [
+   37.066,
+   14.247
+  ],
+  "new": [
+   37.0645,
+   14.2473
+  ],
+  "why": "Gela seafront memorial by the pier, on the Lungomare (OSM + Nominatim)"
+ },
+ {
+  "key": "tl2",
+  "name": "Gela — Rangers and 1st Division storm ashore",
+  "old": [
+   37.066,
+   14.247
+  ],
+  "new": [
+   37.0645,
+   14.2473
+  ],
+  "why": "Gela seafront (OSM + Nominatim)"
+ },
+ {
+  "key": "d14-5",
+  "name": "The Po at Pontelagoscuro, Ferrara",
+  "old": [
+   44.89,
+   11.608
+  ],
+  "new": [
+   44.887,
+   11.608
+  ],
+  "why": "South embankment of the Po at Pontelagoscuro (OSM river data)"
+ },
+ {
+  "key": "tl25",
+  "name": "Garigliano, Minturno — British X Corps crosses the river",
+  "old": [
+   41.24444,
+   13.77111
+  ],
+  "new": [
+   41.24198,
+   13.77191
+  ],
+  "why": "Ponte Real Ferdinando, as the text says (OSM)"
+ }
+]

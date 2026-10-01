@@ -166,11 +166,17 @@ html = rep(html, '\n</body></html>', tail + '</body></html>', what='tail')
 # app name in the page title / credits
 html = html.replace('Map data: <a href="https://www.naturalearthdata.com/" target="_blank" rel="noopener">Natural Earth</a> · <a href="https://www.geonames.org/" target="_blank" rel="noopener">GeoNames</a> (CC BY 4.0)', 'Map data © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap contributors</a>')
 
+
+# overnight areas: three centres were on the wrong side of town (checked 1 Oct 2026)
+html = rep(html, '"lat":43.7696,"lon":11.2558,"base":"Florence (south bank, near Piazzale Michelangelo)"', '"lat":43.76283,"lon":11.26499,"base":"Florence (south bank, near Piazzale Michelangelo)"', what='base florence')
+html = rep(html, '"lat":44.4949,"lon":11.3426,"base":"Bologna (north-west, Fiera/Aeroporto side)"', '"lat":44.51179,"lon":11.36193,"base":"Bologna (north-east, Fiera district)"', what='base bologna')
+html = rep(html, '"lat":44.05755,"lon":12.56528,"base":"Rimini – Miramare', '"lat":44.03191,"lon":12.62184,"base":"Rimini – Miramare', what='base rimini')
+
 # ---------- 4. GPS corrections (independent check, Sep 2026) ----------
 def num(x):
     return [repr(x), repr(x).rstrip('0').rstrip('.')]
 done = 0
-for fx in J('gps.json', []):
+for fx in J('gps.json', []) + J('gps2.json', []) + J('gps3.json', []):
     nm = fx['name']; (la0, lo0), (la1, lo1) = fx['old'], fx['new']
     hit = False
     for q in ('"' + nm + '"', nm):

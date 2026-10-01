@@ -1,0 +1,275 @@
+[
+ {
+  "key": "d1-4",
+  "name": "82nd Airborne memorial, Ponte Dirillo",
+  "old": [
+   37.02325,
+   14.40814
+  ],
+  "new": [
+   37.03185,
+   14.40448
+  ],
+  "why": "82nd Airborne memorial on the SS115 (OSM node + Nominatim)"
+ },
+ {
+  "key": "dd5",
+  "name": "82nd Airborne memorial, Ponte Dirillo",
+  "old": [
+   37.02325,
+   14.40814
+  ],
+  "new": [
+   37.03185,
+   14.40448
+  ],
+  "why": "82nd Airborne memorial on the SS115 (OSM node + Nominatim)"
+ },
+ {
+  "key": "d1-3",
+  "name": "Piano Lupo crossroads, near Gela",
+  "old": [
+   37.055,
+   14.345
+  ],
+  "new": [
+   37.06126,
+   14.35509
+  ],
+  "why": "Piano del Lupo (OSM locality + Nominatim)"
+ },
+ {
+  "key": "tl4",
+  "name": "Piano Lupo — the Gela counterattack",
+  "old": [
+   37.055,
+   14.345
+  ],
+  "new": [
+   37.06126,
+   14.35509
+  ],
+  "why": "Piano del Lupo (OSM locality + Nominatim)"
+ },
+ {
+  "key": "d3-5",
+  "name": "Capo Peloro, Torre Faro",
+  "old": [
+   38.265,
+   15.645
+  ],
+  "new": [
+   38.26589,
+   15.65096
+  ],
+  "why": "Capo Peloro point, by the pylon (OSM); old pin was in Torre Faro village"
+ },
+ {
+  "key": "d7-2",
+  "name": "Garigliano crossing and Real Ferdinando bridge, Minturno",
+  "old": [
+   41.24444,
+   13.77111
+  ],
+  "new": [
+   41.24198,
+   13.77191
+  ],
+  "why": "Ponte Real Ferdinando (OSM historic bridge)"
+ },
+ {
+  "key": "d7-3",
+  "name": "Museo Linea Gustav, Castelforte",
+  "old": [
+   41.2939,
+   13.8306
+  ],
+  "new": [
+   41.30166,
+   13.82041
+  ],
+  "why": "Via Armando Diaz, Castelforte (official museum address)"
+ },
+ {
+  "key": "m9",
+  "name": "Museo Linea Gustav",
+  "old": [
+   41.2939,
+   13.8306
+  ],
+  "new": [
+   41.30166,
+   13.82041
+  ],
+  "why": "Via Armando Diaz, Castelforte (official museum address)"
+ },
+ {
+  "key": "d9-1",
+  "name": "Piana delle Orme museum, near Latina",
+  "old": [
+   41.44332,
+   12.98401
+  ],
+  "new": [
+   41.44257,
+   12.9858
+  ],
+  "why": "Museo Piana delle Orme building (OSM + Nominatim, Strada Migliara 43)"
+ },
+ {
+  "key": "m14",
+  "name": "Museo Piana delle Orme",
+  "old": [
+   41.44332,
+   12.98401
+  ],
+  "new": [
+   41.44257,
+   12.9858
+  ],
+  "why": "Museo Piana delle Orme building (OSM + Nominatim, Strada Migliara 43)"
+ },
+ {
+  "key": "d14-1",
+  "name": "Museo della Battaglia del Senio, Alfonsine",
+  "old": [
+   44.50768,
+   12.03743
+  ],
+  "new": [
+   44.50757,
+   12.03864
+  ],
+  "why": "Museo della Battaglia del Senio building (OSM)"
+ },
+ {
+  "key": "m21",
+  "name": "Museo della Battaglia del Senio",
+  "old": [
+   44.50768,
+   12.03743
+  ],
+  "new": [
+   44.50757,
+   12.03864
+  ],
+  "why": "Museo della Battaglia del Senio building (OSM)"
+ },
+ {
+  "key": "d13-3",
+  "name": "Montegridolfo and the Museo della Linea dei Goti",
+  "old": [
+   43.85826,
+   12.68995
+  ],
+  "new": [
+   43.85915,
+   12.68948
+  ],
+  "why": "Museo della Linea dei Goti, Montegridolfo (OSM)"
+ },
+ {
+  "key": "m20",
+  "name": "Museo della Linea dei Goti",
+  "old": [
+   43.85826,
+   12.68995
+  ],
+  "new": [
+   43.85915,
+   12.68948
+  ],
+  "why": "Museo della Linea dei Goti, Montegridolfo (OSM)"
+ },
+ {
+  "key": "d9-6",
+  "name": "Museo dello Sbarco di Anzio (Villa Adele)",
+  "old": [
+   41.44991,
+   12.63126
+  ],
+  "new": [
+   41.4501,
+   12.63019
+  ],
+  "why": "Museo dello Sbarco, Villa Adele, Anzio (OSM)"
+ },
+ {
+  "key": "m12",
+  "name": "Museo dello Sbarco di Anzio",
+  "old": [
+   41.44991,
+   12.63126
+  ],
+  "new": [
+   41.4501,
+   12.63019
+  ],
+  "why": "Museo dello Sbarco, Villa Adele, Anzio (OSM)"
+ },
+ {
+  "key": "m6",
+  "name": "Monte Lungo war museum",
+  "old": [
+   41.42249,
+   13.96877
+  ],
+  "new": [
+   41.42319,
+   13.96824
+  ],
+  "why": "Monte Lungo museum building (OSM)"
+ },
+ {
+  "key": "m19",
+  "name": "Monte Sole Historical Park",
+  "old": [
+   44.31102,
+   11.21793
+  ],
+  "new": [
+   44.31233,
+   11.19634
+  ],
+  "why": "Il Poggiolo visitor centre, Monte Sole park (OSM)"
+ },
+ {
+  "key": "dd-2",
+  "name": "Sommocolonia — Lieutenant Fox memorial",
+  "old": [
+   44.09443,
+   10.49281
+  ],
+  "new": [
+   44.09211,
+   10.49061
+  ],
+  "why": "Memory park at the ruined tower by the church, Sommocolonia (OSM)"
+ },
+ {
+  "key": "dd28",
+  "name": "Sommocolonia — Lieutenant Fox memorial",
+  "old": [
+   44.09443,
+   10.49281
+  ],
+  "new": [
+   44.09211,
+   10.49061
+  ],
+  "why": "Memory park at the ruined tower by the church, Sommocolonia (OSM)"
+ },
+ {
+  "key": "tl21",
+  "name": "Monte la Difensa — the Special Service Force climbs the cliffs",
+  "old": [
+   41.38228,
+   13.93301
+  ],
+  "new": [
+   41.39088,
+   13.95099
+  ],
+  "why": "Monte la Difensa summit (OSM peak; Wikipedia 41°23′27″N 13°57′4″E)"
+ }
+]
