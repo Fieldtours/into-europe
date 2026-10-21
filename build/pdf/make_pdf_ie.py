@@ -8,10 +8,13 @@ ROOT = '/home/claude/ie/test/'          # served on :8820 — fonts, welcome.jpg
 BUILD = ROOT + 'pdfbuild/'
 os.makedirs(BUILD + 'maps', exist_ok=True)
 from PIL import Image
-for f in os.listdir('/home/claude/ie/pdf/maps'):
-    im = Image.open('/home/claude/ie/pdf/maps/' + f).convert('RGB')
-    if im.width > 1300: im = im.resize((1300, round(im.height * 1300 / im.width)), Image.LANCZOS)
-    im.save(BUILD + 'maps/' + f.replace('.png', '.jpg'), quality=74, optimize=True)
+# maps: print-quality versions (pmaps/ -> maps_print/), 1800 px wide (about 250 dpi on the page)
+MP = '/home/claude/ie/pdf/maps_print/'
+for f in os.listdir(MP):
+    if not f.endswith('.jpg'): continue
+    im = Image.open(MP + f).convert('RGB')
+    if im.width > 1800: im = im.resize((1800, round(im.height * 1800 / im.width)), Image.LANCZOS)
+    im.save(BUILD + 'maps/' + f, quality=82, optimize=True, progressive=True)
 
 GUIDES = {
  'italy': dict(out='Into-Europe-Italy-1943-1945.pdf', place='Italy 1943–1945', foot='Into Europe · Italy 1943–1945'),
@@ -163,7 +166,7 @@ section.cover{page-break-before:auto;box-sizing:border-box;height:258mm;backgrou
 
 async def main(keys):
     async with async_playwright() as p:
-        b = await p.chromium.launch(); pg = await b.new_page()
+        b = await p.chromium.launch(executable_path='/opt/pw-browsers/chromium-1194/chrome-linux/chrome'); pg = await b.new_page()
         for k in keys:
             G = build(k)
             await pg.goto(f'http://localhost:8820/pdfbuild/{k}.html'); await pg.wait_for_timeout(1500)
