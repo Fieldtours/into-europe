@@ -33,8 +33,8 @@ function descText(p,L){const a=[];if(p.when)a.push(p.when);if(p.text)a.push(p.te
  if(p.conf&&L.acc[p.conf])a.push(L.accW+": "+L.acc[p.conf]+".");if(p.priv)a.push(L.priv);
  a.push(L.guide+": "+p.url);a.push("DZ Charlie · dzcharlie.com");return a.join("\n\n")}
 function write(base,title,pts,L){
- let g=`<?xml version="1.0" encoding="UTF-8"?>\n<gpx version="1.1" creator="DZ Charlie — dzcharlie.com" xmlns="http://www.topografix.com/GPX/1/1">\n<metadata><name>${esc(title)}</name><desc>${esc(L.meta)}</desc><link href="https://dzcharlie.com/"><text>DZ Charlie</text></link></metadata>\n`;
- pts.forEach(p=>{g+=`<wpt lat="${p.lat.toFixed(6)}" lon="${p.lon.toFixed(6)}"><name>${esc(p.name)}</name><desc>${esc(descText(p,L))}</desc><link href="${p.url}"><text>${esc(L.open)}</text></link><sym>${p.sym}</sym><type>${esc(p.group)}</type></wpt>\n`});
+ let g=`<?xml version="1.0" encoding="UTF-8"?>\n<gpx version="1.1" creator="DZ Charlie — dzcharlie.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">\n<metadata><name>${esc(title)}</name><desc>${esc(L.meta)}</desc><link href="https://dzcharlie.com/"><text>DZ Charlie</text></link></metadata>\n`;
+ pts.forEach(p=>{g+=`<wpt lat="${p.lat.toFixed(6)}" lon="${p.lon.toFixed(6)}"><name>${esc(p.name)}</name><desc>${esc(descText(p,L))}</desc><link href="${p.url}"><text>${esc(L.open)}</text></link><sym>${p.sym}</sym><type>${esc(p.group)}</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>\n`});
  g+=`</gpx>\n`;fs.writeFileSync(path.join(OUT,base+'.gpx'),g);
  const groups=[];pts.forEach(p=>{let f=groups.find(x=>x.k===p.group);if(!f)groups.push(f={k:p.group,p:[]});f.p.push(p)});
  let k=`<?xml version="1.0" encoding="UTF-8"?>\n<kml xmlns="http://www.opengis.net/kml/2.2">\n<Document><name>${esc(title)}</name><description>${esc(L.meta)}</description>\n`;

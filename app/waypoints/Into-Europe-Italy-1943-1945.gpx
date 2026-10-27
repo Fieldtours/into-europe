@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx version="1.1" creator="DZ Charlie — dzcharlie.com" xmlns="http://www.topografix.com/GPX/1/1">
+<gpx version="1.1" creator="DZ Charlie — dzcharlie.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
 <metadata><name>Into Europe — Italy 1943–1945 — DZ Charlie</name><desc>Waypoints from the DZ Charlie field guides. Pins marked LOW or AREA are the centre of a search area, not an exact spot.</desc><link href="https://dzcharlie.com/"><text>DZ Charlie</text></link></metadata>
 <wpt lat="37.054440" lon="15.265000"><name>DZC Ponte Grande — gliders seize the bridge</name><desc>9–10 Jul 1943, night
 
@@ -11,7 +11,7 @@ Accuracy: HIGH — exact spot known.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="37.064500" lon="14.247300"><name>DZC Gela — Rangers and 1st Division storm ashore</name><desc>10 Jul 1943, 02:45
 
 At 02:45 the US 1st Infantry Division landed on the beaches east of Gela while Darby's 1st and 4th Ranger Battalions went straight at the town, whose pier the Italians blew up. The destroyer USS Maddox was sunk offshore by an air attack just before 05:00. That morning nine or ten Italian tanks of Mobile Group E dashed into Gela's streets before Rangers and engineers drove them out with bazookas and grenades.
@@ -22,7 +22,7 @@ Accuracy: MEDIUM — right area, exact spot uncertain.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="36.675450" lon="15.052650"><name>DZC Bark West — the Canadians land near Pachino</name><desc>10 Jul 1943, early morning
 
 The 1st Canadian Infantry Division (Major-General Guy Simonds) and the 1st Canadian Army Tank Brigade came ashore on 'Bark West' beach near Maucini, with Royal Marine Nos. 40 and 41 Commandos landing alongside. Opposition from the Italian coastal troops was light and Pachino was reached the same day. It was the start of a month-long campaign that cost Canada some 562 dead.
@@ -33,7 +33,7 @@ Accuracy: MEDIUM — right area, exact spot uncertain.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="37.061260" lon="14.355090"><name>DZC Piano Lupo — the Gela counterattack</name><desc>11 Jul 1943, 06:15
 
 At 06:15 the Hermann Göring Panzer Division and the Italian Livorno Division struck at the Gela beachhead. German tanks rolled down the Niscemi road past Piano Lupo, held by the 1st and 2nd Battalions of the 16th Infantry with scattered paratroopers of the 505th, and across the Gela plain to within about 2,000 yards of the water. Artillery landed by DUKW, anti-tank guns and naval gunfire stopped them; sixteen German tanks were left burning and the attack was called off after 14:00.
@@ -44,7 +44,7 @@ Accuracy: AREA — centre of a wider area.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="37.020000" lon="14.440000"><name>DZC Biazza Ridge — Gavin stops the Tigers</name><desc>11 Jul 1943, afternoon
 
 Colonel James Gavin, commander of the 505th Parachute Infantry, gathered paratroopers, engineers, cooks and clerks on this low ridge east of the Acate river and met a German battle group with Tiger tanks. Pack howitzers fired over open sights; in the evening, reinforced by Sherman tanks, Gavin counterattacked and the Germans fell back. The stand stopped the eastern arm of the counterattack and won Gavin the Distinguished Service Cross.
@@ -55,7 +55,7 @@ Accuracy: AREA — centre of a wider area.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="37.399440" lon="15.065000"><name>DZC Primosole Bridge — paratroops against paratroops</name><desc>13–16 Jul 1943
 
 Operation Fustian dropped the British 1st Parachute Brigade to seize this bridge over the Simeto, the gateway to the Catania plain. Scattered by flak, including Allied naval fire, only about 295 of 1,856 men reached the objective. They took the bridge but were driven off on 14 July by German paratroopers. The Durham Light Infantry of 50th Division needed until 16 July to secure it; the plain beyond held Eighth Army for three weeks.
@@ -66,7 +66,7 @@ Accuracy: HIGH — exact spot known.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="38.110560" lon="13.353330"><name>DZC Palermo falls; three days later Mussolini is deposed</name><desc>22 Jul 1943, 19:00
 
 Patton's Provisional Corps swept across western Sicily and at 19:00 on 22 July accepted Palermo's surrender at the royal palace; Patton arrived that night. The drive took some 53,000 prisoners, mostly Italian. In Rome the Fascist Grand Council voted 19 to 8 against Mussolini in the early hours of 25 July, and that afternoon the King dismissed and arrested him. Marshal Badoglio's new government announced that the war would go on.
@@ -77,7 +77,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="37.655800" lon="14.519720"><name>DZC Agira — the Canadians' hardest fight</name><desc>24–28 Jul 1943
 
 Advancing east from Leonforte, the 1st Canadian Division attacked Agira, a hill town held by German Panzergrenadiers. Five days of fighting through Nissoria and along the surrounding ridges, ending in house-to-house combat, cost the division about 438 casualties, its heaviest of the Sicilian campaign. The town fell on 28 July, opening the road east towards Regalbuto and Adrano and the western end of the German Etna line.
@@ -88,7 +88,7 @@ Accuracy: MEDIUM — right area, exact spot uncertain.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="37.785160" lon="14.600530"><name>DZC Troina — the battle of the Big Red One</name><desc>31 Jul–6 Aug 1943
 
 At 1,100 metres, Troina anchored the western end of the German Etna line. The US 1st Infantry Division under Terry Allen, with the 39th Infantry and a Moroccan Tabor of Goums, attacked the German 15th Panzergrenadier Division and Italian troops of the Aosta Division. The defenders made about two dozen counterattacks; bombers and artillery wrecked the town. The Germans slipped away on the night of 5–6 August; Allen was relieved of command soon afterwards.
@@ -99,7 +99,7 @@ Accuracy: MEDIUM — right area, exact spot uncertain.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="38.150000" lon="14.815000"><name>DZC Brolo — Patton's end run behind the lines</name><desc>11 Aug 1943, 02:43
 
 To outflank the German line on the Naso ridge, Patton put Lieutenant Colonel Lyle Bernard's 2nd Battalion, 30th Infantry, with tanks and two artillery batteries, ashore behind the enemy at Brolo. They seized Monte Cipolla above the coast road and, supported by the cruiser USS Philadelphia, held out all day against counterattacks by the 29th Panzergrenadier Division. Relieved at 07:30 on 12 August, the force had lost 177 men.
@@ -110,7 +110,7 @@ Accuracy: AREA — centre of a wider area.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="38.265000" lon="15.645000"><name>DZC The Strait — the Axis gets away</name><desc>11–17 Aug 1943
 
 In Operation Lehrgang German ferries, landing craft and barges carried troops from the beaches north of Messina to Calabria night after night from 11 to 17 August, under an umbrella of some 500 anti-aircraft guns. The Allied air forces and navies failed to stop them. Estimates run from about 40,000 to 60,000 German troops, with some 10,000 vehicles, plus 62,000–75,000 Italians carried in their own operation. The same divisions would fight at Salerno.
@@ -121,7 +121,7 @@ Accuracy: AREA — centre of a wider area.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="38.196360" lon="15.551760"><name>DZC Messina — Patton wins the race</name><desc>17 Aug 1943, 10:00
 
 A patrol of the US 3rd Division's 7th Infantry entered the bomb-wrecked city on the evening of 16 August. At 10:00 next morning Patton drove down from the hills to accept its surrender, just ahead of British commandos arriving from the south. The last German boats had left hours earlier. The 38-day campaign was over; Allied troops crossed the Strait to Calabria on 3 September.
@@ -132,7 +132,7 @@ Accuracy: MEDIUM — right area, exact spot uncertain.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="38.165000" lon="15.652000"><name>DZC Reggio Calabria — Eighth Army crosses to the mainland</name><desc>3 Sep 1943, dawn
 
 Before dawn on 3 September 1943, after a barrage from more than 600 guns firing across the Strait of Messina, British XIII Corps landed on the beaches north of Reggio in Operation Baytown: the 1st Canadian Division aimed for Reggio and its airfield, the British 5th Division for Villa San Giovanni. The Germans had already pulled back, and Italian coastal troops surrendered. Six days later the British 1st Airborne Division sailed into Taranto (Operation Slapstick).
@@ -143,7 +143,7 @@ Accuracy: AREA — centre of a wider area.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="40.415530" lon="14.990610"><name>DZC Paestum beaches — US 36th Division lands at Salerno</name><desc>9 Sep 1943, 03:30
 
 Hours after the Italian armistice was announced on the evening of 8 September, the US 36th Infantry Division, in battle for the first time, landed on four beaches (Red, Green, Yellow, Blue) below the Greek temples of Paestum at 03:30. There was no preliminary bombardment, and the 16th Panzer Division was waiting. By nightfall the Texans held Capaccio and the slopes of Monte Soprano, at a cost of about 500 casualties.
@@ -154,7 +154,7 @@ Accuracy: HIGH — exact spot known.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="40.608000" lon="14.984000"><name>DZC Battipaglia — British X Corps fights for the northern plain</name><desc>9–18 Sep 1943
 
 North of the Sele, the British 46th and 56th Divisions of X Corps landed on 9 September while Commandos seized Vietri and US Rangers the passes above Maiori. The 56th took Montecorvino airfield and on 10 September pushed into Battipaglia, a vital road junction, but was thrown out that evening; after two more days of fighting, German counter-attacks drove the division off the edge of the town on 12 September. The British held on just south of the town; Battipaglia, largely destroyed, was finally entered on 18 September.
@@ -165,7 +165,7 @@ Accuracy: MEDIUM — right area, exact spot uncertain.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="40.533000" lon="15.133000"><name>DZC Altavilla and Hill 424 — the heights above the beachhead</name><desc>10–19 Sep 1943
 
 The hill village of Altavilla and Hill 424 behind it overlook the whole Sele plain. Men of the 36th Division occupied the village by 11 September, lost it to German counter-attacks on 12 September, and failed to retake Hill 424 the next day; the 1st Battalion, 142nd Infantry was almost destroyed. Naval gunfire and bombing wrecked the village, and 85 civilians died on its territory. The Americans only reoccupied it on 18–19 September.
@@ -176,7 +176,7 @@ Accuracy: MEDIUM — right area, exact spot uncertain.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="40.530000" lon="15.040000"><name>DZC Sele–Calore corridor — the German counter-attack is stopped</name><desc>13 Sep 1943, 15:30
 
 At 15:30 on 13 September German tanks and infantry drove down the corridor between the Sele and Calore rivers, into a gap between the US and British corps. The 2nd Battalion, 143rd Infantry was overrun, and the attack headed for the beaches. Near a burned bridge over the Calore, the 158th and 189th Field Artillery Battalions fired about 3,650 rounds in four hours, their crews fighting as infantry. It was the crisis of the Salerno battle.
@@ -187,7 +187,7 @@ Accuracy: AREA — centre of a wider area.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="40.831790" lon="14.226330"><name>DZC Naples — the Four Days and the arrival of the Allies</name><desc>27 Sep – 1 Oct 1943
 
 After the German commandant, Colonel Walter Schöll, declared a state of siege and ordered men aged 18–33 to report for labour, Neapolitans rose up on 27 September. For four days civilians, soldiers and teenagers fought German troops in the Vomero, Materdei, Capodimonte and elsewhere. Death tolls vary widely: from 155 to more than 600 Italians, and several dozen Germans. On 1 October British armoured cars of the King's Dragoon Guards entered a city with a wrecked port.
@@ -198,7 +198,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.140000" lon="14.245000"><name>DZC Volturno — Fifth Army crosses the river in flood</name><desc>12–13 Oct 1943, 01:00
 
 The Volturno, swollen by autumn rain, was the first German river line north of Naples. At 01:00 on 13 October Fifth Army's guns opened fire and six divisions, three American and three British, attacked. The US 3rd Division feinted at the Triflisco gap and crossed near Monte Caruso; the 34th took Caiazzo. The British 56th Division failed at Capua and later used an American bridge, while the 46th crossed near the sea. The Germans fell back to the Barbara Line.
@@ -209,7 +209,7 @@ Accuracy: AREA — centre of a wider area.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="42.218410" lon="14.535590"><name>DZC Sangro River — Eighth Army storms the Adriatic end of the Winter Line</name><desc>24–30 Nov 1943
 
 On the Adriatic, Montgomery's Eighth Army reached the Sangro in November. Small bridgeheads had been won by 24 November and, after days of rain and flooding, the main attack by the British 78th Division, 8th Indian Division and 2nd New Zealand Division took the ridge beyond the river by nightfall on 30 November. The German 65th Infantry Division was badly mauled, but mud, rain and fresh German divisions slowed the advance towards the Moro and Ortona.
@@ -220,7 +220,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.390880" lon="13.950990"><name>DZC Monte la Difensa — the Special Service Force climbs the cliffs</name><desc>2–9 Dec 1943
 
 Operation Raincoat opened Fifth Army's attack on the Winter Line at the Mignano gap. On the night of 2–3 December the US–Canadian 1st Special Service Force scaled the cliffs of Monte la Difensa (Hill 960) and took the summit at dawn, while the British 56th Division fought for Monte Camino (Hill 963), secured on 6 December. In six days of cold and rain the Force suffered 511 casualties, including 73 dead.
@@ -231,7 +231,7 @@ Accuracy: HIGH — exact spot known.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="42.321630" lon="14.383190"><name>DZC Moro River and Casa Berardi — Canada’s December battle</name><desc>6–20 Dec 1943
 
 The 1st Canadian Division crossed the Moro on 6–9 December at Villa Rogatti, San Leonardo and near the coast, then ran into 'the Gully', a ravine about 60 metres deep held by German paratroopers and panzergrenadiers. On 14 December Captain Paul Triquet's company of the Royal 22e Régiment fought through to the farmhouse of Casa Berardi, reaching it with only 14 to 17 men fit to fight (sources differ). Triquet received the Victoria Cross. The Germans left the Gully on 20 December.
@@ -242,7 +242,7 @@ Accuracy: MEDIUM — right area, exact spot uncertain.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.446040" lon="13.967270"><name>DZC San Pietro Infine — a village destroyed in the Winter Line</name><desc>8–17 Dec 1943
 
 San Pietro sat on the slopes of Monte Sammucro, covering the road through the Mignano gap. From 8 December the US 36th Division attacked across terraced olive groves; on the same day the Italian 1st Motorised Group made its first attack for the Allies, on nearby Monte Lungo, and failed. A tank attack on 15 December lost 12 of 16 Shermans. The Germans withdrew on the night of 16–17 December, leaving the village in ruins.
@@ -253,7 +253,7 @@ Accuracy: HIGH — exact spot known.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="42.353060" lon="14.403610"><name>DZC Ortona — street fighting in “Little Stalingrad”</name><desc>20–28 Dec 1943
 
 From 20 December the Loyal Edmonton Regiment and the Seaforth Highlanders of Canada, with Three Rivers tanks, fought house by house against the German 1st Parachute Division. Streets were rubble-blocked and mined, so the Canadians 'mouse-holed', blasting through walls from house to house. On Christmas Day companies rotated through a dinner in the church of Santa Maria di Costantinopoli. The paratroopers withdrew on the night of 27–28 December. 1,314 of Ortona's people died in the battle and the bombardments.
@@ -264,7 +264,7 @@ Accuracy: HIGH — exact spot known.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.241980" lon="13.771910"><name>DZC Garigliano, Minturno — British X Corps crosses the river</name><desc>17 Jan 1944, 21:00
 
 At 21:00 on 17 January 1944 British X Corps opened the first battle for the Gustav Line. The 5th and 56th (London) Infantry Divisions crossed the fast, flooded Garigliano near its mouth, in assault boats and DUKWs, and fought their way up to Minturno, Tufo and the slopes towards Castelforte. The bridgehead held, but cost about 4,000 casualties in the first weeks. Alarmed, Kesselring rushed two panzergrenadier divisions south from Rome, just before the Anzio landing.
@@ -275,7 +275,7 @@ Accuracy: MEDIUM — right area, exact spot uncertain.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.444800" lon="13.832600"><name>DZC Sant'Angelo in Theodice — the US 36th Division fails at the Rapido</name><desc>20 Jan 1944, evening
 
 On the foggy night of 20 January the 141st and 143rd Infantry Regiments of the US 36th (Texas) Division tried to cross the Gari (Rapido) river on either side of Sant'Angelo in Theodice, under German guns on the far bank. Boats were holed, footbridges broke and minefields waited on both banks. After two nights the survivors were back where they started. Sources give between about 1,700 and 2,100 American casualties in 48 hours, against light German losses.
@@ -286,7 +286,7 @@ Accuracy: HIGH — exact spot known.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.446000" lon="12.629000"><name>DZC Anzio — Operation Shingle lands behind the Gustav Line</name><desc>22 Jan 1944, 02:00
 
 At 02:00 on 22 January 1944 US VI Corps under Major General John P. Lucas landed at Anzio and Nettuno, about 60 km south of Rome: the British 1st Infantry Division north of the town, US Rangers and paratroopers at the harbour, and the US 3rd Infantry Division to the east. Surprise was complete. By midnight some 36,000 men and 3,200 vehicles were ashore for 13 killed. Lucas dug in rather than dash inland, and the Germans reacted fast.
@@ -297,7 +297,7 @@ Accuracy: MEDIUM — right area, exact spot uncertain.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.561400" lon="12.808600"><name>DZC Cisterna — two Ranger battalions destroyed</name><desc>30 Jan 1944, dawn
 
 Before dawn on 30 January the 1st and 3rd Ranger Battalions crept along a drainage ditch towards Cisterna, leading a US 3rd Division attack. At first light they were caught in open fields near Isola Bella by German troops and tanks. Of 767 Rangers, only six got back to Allied lines; the rest were killed or captured. The same day the British 1st Division pushed towards Campoleone but ended in an exposed salient. The beachhead was now under siege.
@@ -308,7 +308,7 @@ Accuracy: AREA — centre of a wider area.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.490000" lon="13.813890"><name>DZC Monte Cassino — the abbey is destroyed from the air</name><desc>15 Feb 1944, morning
 
 On the morning of 15 February 1944, at the request of the New Zealand Corps, 229 American bombers (142 B-17s, 47 B-25s and 40 B-26s) dropped about 1,150 tonnes of bombs on the 6th-century Benedictine abbey, and artillery joined in. Allied commanders believed German troops were using it. They were not: the abbey was sheltering civilians, of whom about 230 died by one widely cited count. German troops then moved into the ruins and made them a fortress.
@@ -319,7 +319,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.593680" lon="12.648530"><name>DZC Aprilia, 'the Factory' — the German counter-offensive</name><desc>16 Feb 1944
 
 The brick-built new town of Aprilia, called 'the Factory' by Allied soldiers, and nearby Carroceto were lost by the British 1st Division on 9–10 February. On 16 February General von Mackensen's Fourteenth Army launched Operation Fischfang down the Via Anziate, the Albano–Anzio road, to split the beachhead. For four days British and American troops held on near the Flyover bridge, helped by massed artillery and bombers, and the attack was stopped only a few kilometres from the sea.
@@ -330,7 +330,7 @@ Accuracy: MEDIUM — right area, exact spot uncertain.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.495110" lon="13.825220"><name>DZC Cassino town and Castle Hill — the third battle</name><desc>15 Mar 1944, 08:30
 
 From 08:30 on 15 March 1944 Allied bombers dropped about 750 tonnes of bombs on Cassino town for three and a half hours, followed by a massive artillery barrage. The 2nd New Zealand Division attacked through the rubble and took Castle Hill (Rocca Janula); Gurkhas of the 4th Indian Division reached Hangman's Hill just below the abbey. But German paratroopers survived in cellars and ruins, rain flooded the craters and tanks could not pass. The battle was called off on 23 March.
@@ -341,7 +341,7 @@ Accuracy: HIGH — exact spot known.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.857050" lon="12.510080"><name>DZC Fosse Ardeatine, Rome — 335 men murdered in reprisal</name><desc>24 Mar 1944
 
 On 23 March 1944 Roman partisans of the GAP exploded a bomb in Via Rasella, killing 33 men of the German police regiment 'Bozen'. Within 24 hours, on Hitler's order, passed down through Kesselring and General von Mackensen, SS officer Herbert Kappler had 335 men and boys taken to disused quarries on the Via Ardeatina and shot in the back of the head, five more than the ten-for-one ratio demanded. The victims included 75 Jews. The caves were then blown shut.
@@ -352,7 +352,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.355000" lon="13.790000"><name>DZC Monte Maio — the French break through the Aurunci mountains</name><desc>13 May 1944
 
 Operation Diadem opened at 23:00 on 11 May with more than 1,600 guns. While the British and Poles were held at Cassino, General Alphonse Juin's French Expeditionary Corps, mostly Moroccan and Algerian troops, stormed the Aurunci mountains. Monte Maio fell on 13 May and the Moroccan goumiers then crossed trackless heights behind the German line. This was the decisive breakthrough. In the villages beyond, such as Esperia, the following days also brought the Marocchinate: mass rapes and killings of Italian civilians by some of these troops.
@@ -363,7 +363,7 @@ Accuracy: AREA — centre of a wider area.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.497060" lon="13.802280"><name>DZC Point 593, Monte Cassino — the Poles take the heights</name><desc>18 May 1944, morning
 
 Point 593, the rocky summit north-west of the abbey, had defeated Americans, Indians and British since January. From 12 May General Władysław Anders' Polish II Corps attacked it and the nearby Albaneta farm, losing heavily. After the German paratroopers had been outflanked in the valley and ordered out, a patrol of the 12th Podolian Uhlan (cavalry) Regiment raised a Polish pennant over the abbey ruins on the morning of 18 May (about 10:20 by most accounts). Monte Cassino had fallen after four months.
@@ -374,7 +374,7 @@ Accuracy: HIGH — exact spot known.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.458000" lon="13.664000"><name>DZC Pontecorvo and Aquino — the Hitler Line broken</name><desc>23 May 1944
 
 Behind the Gustav Line the Germans had built a second barrier across the Liri valley, the Hitler Line (renamed Senger Line), from Piedimonte through Aquino to Pontecorvo. On 23 May the 1st Canadian Infantry Division attacked it between Pontecorvo and Aquino, at heavy cost, and broke through; the Poles took Piedimonte on 25 May. The same morning, 23 May, VI Corps began its breakout from the Anzio beachhead. Two days later the two fronts joined up.
@@ -385,7 +385,7 @@ Accuracy: AREA — centre of a wider area.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.893400" lon="12.482700"><name>DZC Rome — the first Axis capital to fall</name><desc>4 Jun 1944
 
 After the breakout, Lieutenant General Mark Clark turned most of VI Corps north-west towards Rome instead of driving on to Valmontone to cut off the retreating German Tenth Army, a decision still argued over. With Hitler forbidding a defence of the city, Kesselring pulled his troops out and left Rome undefended as an open city. On 4 June 1944 American troops, including the 88th Division and the US–Canadian 1st Special Service Force, entered from the south-east; next morning Clark held a press conference on the Capitoline Hill. Two days later came D-Day.
@@ -396,7 +396,7 @@ Accuracy: HIGH — exact spot known.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="43.127640" lon="12.053460"><name>DZC Lake Trasimene — the Trasimene Line</name><desc>20 Jun – 2 Jul 1944
 
 Two weeks after Rome fell, Kesselring's rearguards turned to fight on the Trasimene Line, a belt of hill villages running west from the lake towards Chiusi. Their aim was time: every day bought let engineers finish the Gothic Line. British 4th and 78th Divisions, the South African 6th Armoured Division and Canadian tanks fought village by village against 1st Parachute, 334th and Hermann Göring divisions until the line broke on 28 June.
@@ -407,7 +407,7 @@ Accuracy: AREA — centre of a wider area.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="43.767990" lon="11.253160"><name>DZC Florence — the night of the bridges</name><desc>3–4 Aug 1944, from 22:00
 
 As Eighth Army closed on Florence, German engineers blew every bridge over the Arno from about 22:00 on 3 August — alle Grazie, Santa Trinita, alla Carraia, San Niccolò and alla Vittoria. Only the Ponte Vecchio was spared, but the medieval streets at both ends were demolished to block it. Allied troops reached the south bank on 4 August; the partisan rising in the centre began on 11 August.
@@ -418,7 +418,7 @@ Accuracy: HIGH — exact spot known.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="43.974170" lon="10.273610"><name>DZC Sant'Anna di Stazzema — massacre in the Apuan hills</name><desc>12 Aug 1944, morning
 
 On the morning of 12 August 1944 soldiers of II Battalion, SS Panzergrenadier Regiment 35 (16th SS Division Reichsführer-SS), guided by Italian Fascist collaborators, climbed to this mountain village, which was crowded with refugees. In a few hours they killed about 560 people, sources give 540–560, among them more than 100 children (sources give 107 to 130); the youngest, Anna Pardini, was 20 days old. Ten former SS men were convicted in absentia at La Spezia in 2005; none served a sentence.
@@ -429,7 +429,7 @@ Accuracy: HIGH — exact spot known.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="43.858260" lon="12.689950"><name>DZC Montegridolfo — the Gothic Line broken</name><desc>30–31 Aug 1944
 
 Operation Olive opened on 25 August 1944 when Eighth Army, secretly shifted to the Adriatic, crossed the Metauro. By 30 August British, Canadian and Polish troops faced the main Gothic Line positions on the ridges above the Foglia. On 31 August the walled village of Montegridolfo fell to 1/4th Hampshires; Lieutenant Gerard Norton, a South African, won the Victoria Cross clearing machine-gun posts single-handed. The Line had been breached in days.
@@ -440,7 +440,7 @@ Accuracy: HIGH — exact spot known.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="43.965190" lon="12.602370"><name>DZC Coriano Ridge — the last ridge before Rimini</name><desc>4–13 Sep 1944
 
 Beyond the broken Gothic Line the Germans rushed reserves onto Coriano Ridge, the last high ground before the Romagna plain. British 1st Armoured Division's attack on 4–5 September stalled with heavy tank losses. After a bombardment by some 700 guns, the 5th Canadian and British 1st Armoured Divisions took the ridge on 12–13 September; in the week of fighting that followed towards Rimini, Eighth Army lost some 150 killed a day, according to the CWGC.
@@ -451,7 +451,7 @@ Accuracy: MEDIUM — right area, exact spot uncertain.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="44.046800" lon="11.388030"><name>DZC Il Giogo Pass — the Americans break the Apennines</name><desc>12–18 Sep 1944
 
 While Eighth Army fought on the Adriatic, US Fifth Army struck the mountain Gothic Line. Instead of the heavily fortified Futa Pass on Highway 65, II Corps attacked the lesser Il Giogo Pass. For six days the 338th Infantry (85th Division) fought up Monte Altuzzo and the 363rd (91st Division) up Monticelli against the 4th Parachute Division. Both summits fell on 17–18 September at a cost of 2,731 casualties.
@@ -462,7 +462,7 @@ Accuracy: HIGH — exact spot known.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="44.311020" lon="11.217930"><name>DZC Monte Sole — the Marzabotto massacre</name><desc>29 Sep – 5 Oct 1944
 
 Behind the German front south of Bologna, around 1,000 troops under SS Major Walter Reder swept the Monte Sole massif, stronghold of the Stella Rossa partisan brigade. In a week they killed about 770 people in 115 places, among them 216 children, 316 women and 142 elderly people; older counts give much higher totals. At Casaglia, villagers sheltering in the church with their priest were shot in the cemetery on 29 September.
@@ -473,7 +473,7 @@ Accuracy: MEDIUM — right area, exact spot uncertain.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="44.212600" lon="10.965020"><name>DZC Monte Castello — the Brazilians take their mountain</name><desc>21 Feb 1945, 06:00–17:30
 
 Monte Castello (977 m) overlooked the Brazilian sector all winter; attacks on 24–25 and 29 November and 12 December 1944 failed against the German 232nd Infantry Division. In Operation Encore the US 10th Mountain Division first scaled Riva Ridge by night on 18–19 February 1945 and stormed Monte Belvedere; then, on 21 February, the Brazilian 1st Infantry Division attacked at 06:00 and held the summit by about 17:30.
@@ -484,7 +484,7 @@ Accuracy: MEDIUM — right area, exact spot uncertain.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="44.613970" lon="11.835470"><name>DZC The Argenta Gap — the door to the Po valley</name><desc>12–19 Apr 1945
 
 Operation Grapeshot opened on 9 April 1945 with a massive air and artillery bombardment on the Senio. The key was Argenta, a strip of dry land a few kilometres wide between Lake Comacchio's flooded marshes and the Reno. British V Corps forced it with commandos, amphibious Fantails and Kangaroo armoured carriers against the 42nd Jäger and 29th Panzergrenadier Divisions. Argenta fell on 18 April and British armour broke out towards the Po.
@@ -495,7 +495,7 @@ Accuracy: MEDIUM — right area, exact spot uncertain.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="44.494440" lon="11.342500"><name>DZC Bologna liberated</name><desc>21 Apr 1945, early morning
 
 After six months of stalemate within sight of the city, the German front south of Bologna collapsed on 20 April 1945. Early on 21 April troops of the Polish II Corps and the US 34th Division entered from east and south, joined by the Italian Legnano Combat Group and partisans. On the wall of Palazzo d'Accursio, where partisans had been executed, families began pinning photographs of their dead that same day.
@@ -506,7 +506,7 @@ Accuracy: HIGH — exact spot known.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="45.046120" lon="10.933670"><name>DZC San Benedetto Po — first across the Po</name><desc>22–23 Apr 1945
 
 Breaking onto the plain, US IV Corps raced north. Spearheads of the 10th Mountain Division reached the Po at San Benedetto at 18:00 on 22 April and crossed in assault boats on 23 April without losing a man. Downstream the 88th Division, British and South Africans followed, trapping thousands of Germans south of the river; the bridges were gone and heavy weapons were abandoned on the banks.
@@ -517,7 +517,7 @@ Accuracy: MEDIUM — right area, exact spot uncertain.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="45.981110" lon="9.203330"><name>DZC Giulino di Mezzegra — the end of Mussolini</name><desc>28 Apr 1945, about 16:10
 
 On 25 April 1945 the partisan committee called the general insurrection; Genoa, Milan and Turin rose as the Germans pulled out. Mussolini, fleeing towards Switzerland with a German column, was caught at Dongo on 27 April and, by the official account, shot with Clara Petacci outside Villa Belmonte here the next afternoon; details remain disputed. On 29 April the surrender of German forces in Italy was signed at Caserta, effective 2 May.
@@ -528,7 +528,7 @@ Accuracy: MEDIUM — right area, exact spot uncertain.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Red</sym><type>Timeline</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="37.102670" lon="13.939720"><name>DZC Landing beaches, Licata</name><desc>Tour day 1
 
 The westernmost Allied landing. Major General Lucian Truscott's US 3rd Infantry Division came ashore on beaches either side of Licata at dawn on 10 July and took the town and its small harbour on the first day, which quickly became a supply port for Seventh Army. A short stop sets the scale of the whole 150-kilometre invasion front.
@@ -539,7 +539,7 @@ Accuracy: AREA — centre of a wider area.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="37.031850" lon="14.404480"><name>DZC 82nd Airborne memorial, Ponte Dirillo</name><desc>Tour day 1
 
 The main American memorial to the Sicily campaign, beside the SS115 where it crosses the Acate (Dirillo) river. It lists paratroopers of the 82nd Airborne killed nearby; Biazza Ridge, where Gavin stopped the Tigers, is about three kilometres east. A ceremony is held here every July.
@@ -550,7 +550,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="36.715580" lon="15.093520"><name>DZC Operation Husky monument, Pachino</name><desc>Tour day 1
 
 A modern monument in front of the town hall recalls the landings on the beaches south and east of Pachino by the Canadians, the 51st Highland Division and other units of Eighth Army. A quick stop on the way north to Syracuse.
@@ -561,7 +561,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="37.075020" lon="15.257940"><name>DZC Syracuse War Cemetery, Syracuse</name><desc>Tour day 1
 
 About 1,060 Commonwealth soldiers lie here, most killed in the landings and the first days ashore, including many glider-borne men of Operation Ladbroke. British, Indian, South African, Canadian and other graves show how multinational Eighth Army was, and how young most of the dead were.
@@ -572,7 +572,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="37.463030" lon="15.038640"><name>DZC Catania War Cemetery, Catania</name><desc>Tour day 2
 
 About 2,135 Commonwealth soldiers are buried here, many killed at Primosole and in the fighting for the Catania plain; it holds most of the fallen paratroopers of 1st Parachute Brigade, as well as Highlanders and Durham men who fought for the Gerbini airfields and the Simeto crossings.
@@ -583,7 +583,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="37.509120" lon="15.102200"><name>DZC Museo Storico dello Sbarco in Sicilia 1943, Catania</name><desc>Tour day 2
 
 Sicily's main museum of the 1943 campaign, in the converted sulphur works of Le Ciminiere. It tells the story from Allied, Axis and civilian points of view with uniforms, weapons, reconstructed scenes and a large display of Phil Stern's war photographs.
@@ -594,7 +594,7 @@ Accuracy: MEDIUM — right area, exact spot uncertain.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="37.525100" lon="14.989760"><name>DZC German War Cemetery, Motta Sant'Anastasia</name><desc>Tour day 2
 
 The German war cemetery for Sicily: 4,561 dead, 451 of them unidentified, in a walled vault building at the foot of Etna. Among them is Luz Long, the long jumper who befriended Jesse Owens at the 1936 Olympics. Most of the dead were very young.
@@ -605,7 +605,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="37.623360" lon="14.740490"><name>DZC Centuripe, Enna</name><desc>Tour day 2
 
 The 38th (Irish) Brigade of the British 78th Division stormed this cliff-top town on 2–3 August against German paratroopers. Its fall cracked the German Etna line and helped decide Kesselring and Hube to plan the evacuation of the island. Montgomery is reported to have said he doubted any other division in his army could have done it.
@@ -616,7 +616,7 @@ Accuracy: AREA — centre of a wider area.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="37.654910" lon="14.550860"><name>DZC Agira Canadian War Cemetery, Agira</name><desc>Tour day 2
 
 Sicily's only Canadian war cemetery, where the Canadian dead of the island were gathered: 490 Canadians killed in Sicily lie on a hilltop above Lake Pozzillo, looking across to Agira and Etna. It has been a place of pilgrimage for Canadians since 1943, and walkers who retrace the division's route end here.
@@ -627,7 +627,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="38.015560" lon="14.598180"><name>DZC San Fratello ridge, San Fratello</name><desc>Tour day 3
 
 From 3 to 8 August the German 29th Panzergrenadier Division held the US 3rd Division on this ridge above the Furiano river. Frontal attacks failed with heavy loss until the Americans took Hill 673 and landed behind the line at Sant'Agata.
@@ -638,7 +638,7 @@ Accuracy: AREA — centre of a wider area.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="38.083000" lon="14.650000"><name>DZC Landing beach, Sant'Agata di Militello</name><desc>Tour day 3
 
 Patton's first amphibious 'end run' landed Bernard's 2nd Battalion, 30th Infantry, here at 03:15 on 8 August. They achieved surprise, but most of the Germans had already pulled back from the San Fratello line. Patton ordered a second landing at Brolo three days later.
@@ -649,7 +649,7 @@ Accuracy: AREA — centre of a wider area.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="38.265890" lon="15.650960"><name>DZC Capo Peloro, Torre Faro</name><desc>Tour day 3
 
 The narrowest point of the Strait, about three kilometres across. The German ferry routes ran from the beaches between here and Messina; the flak batteries around the Strait kept Allied aircraft at bay. This is the best place to understand why the Axis escape succeeded.
@@ -660,7 +660,7 @@ Accuracy: AREA — centre of a wider area.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="40.422220" lon="15.005280"><name>DZC Temples and museum of Paestum</name><desc>Tour day 4
 
 The three great Greek temples were on the edge of the 36th Division's beachhead. Both sides treated them as off limits, and Allied medics set up aid stations nearby. Walking among 2,500-year-old columns where shells were landing in 1943 is one of the most striking contrasts of the whole trip.
@@ -671,7 +671,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="40.625510" lon="14.922510"><name>DZC Salerno War Cemetery, Bivio Pratole (Montecorvino Pugliano)</name><desc>Tour day 4
 
 The Commonwealth war cemetery for the Salerno landings holds 1,851 graves, 109 of them unidentified, most of them men of the British X Corps who fought between the Sele and Salerno. It lies close to the old Montecorvino airfield and the Battipaglia battlefield. The American dead of Salerno were later moved to the US cemetery at Nettuno.
@@ -682,7 +682,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="40.646960" lon="14.817400"><name>DZC Museo dello Sbarco e Salerno Capitale, Salerno</name><desc>Tour day 4
 
 A volunteer-run museum of about 200 objects covering the landings and Salerno's months as seat of the Italian government (February–July 1944). Outside stand a Sherman tank, a jeep and a sealed railway wagon of the kind used to deport Italian Jews, a reminder that the war in Italy was also a racial persecution.
@@ -693,7 +693,7 @@ Accuracy: MEDIUM — right area, exact spot uncertain.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="40.835520" lon="14.246260"><name>DZC Galleria Borbonica air-raid shelter, Naples</name><desc>Tour day 5
 
 Naples was one of the most heavily bombed cities in Italy: about 200 Allied raids between 1940 and 1944, with civilian deaths estimated at 20,000–25,000. This 19th-century royal tunnel and old cisterns became a shelter for thousands of people. Graffiti, beds and wrecked cars left here after the war make the civilian experience very real.
@@ -704,7 +704,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="40.884970" lon="14.240000"><name>DZC Naples War Cemetery, Miano</name><desc>Tour day 5
 
 The main Commonwealth cemetery of Naples holds 1,202 Second World War burials, many of them men who died in the three general hospitals set up in the city after its liberation, as well as soldiers moved in from small burial grounds nearby. It is a quiet counterpoint to the chaos of the city centre.
@@ -715,7 +715,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.073330" lon="14.326390"><name>DZC Royal Palace of Caserta (Reggia)</name><desc>Tour day 5
 
 The vast Bourbon palace became an Allied headquarters in the autumn of 1943, first for the US Fifth Army and later for Allied Force Headquarters. Here, on 29 April 1945, German envoys signed the surrender of German and Italian Fascist forces in Italy, which took effect on 2 May. The campaign you are following ended in these rooms.
@@ -726,7 +726,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.088730" lon="14.344390"><name>DZC Caserta War Cemetery</name><desc>Tour day 5
 
 A walled section of the town cemetery holds 768 Commonwealth burials: men who died in the 2nd General Hospital, which worked here from December 1943 to September 1945, prisoners of war who died in the prisoner-of-war hospital at Caserta, and soldiers killed in the Volturno fighting of October 1943.
@@ -737,7 +737,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.422490" lon="13.968770"><name>DZC Italian military shrine and museum, Mignano Monte Lungo</name><desc>Tour day 5
 
 The resting place of 974 Italian soldiers, most of them men of the co-belligerent army that fought beside the Allies after the armistice. Their first battle was here, on Monte Lungo, on 8 December 1943: a failure with heavy losses, followed by success on 16 December. The small museum across the road displays weapons and vehicles.
@@ -748,7 +748,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="42.336940" lon="14.416440"><name>DZC Moro River Canadian War Cemetery, San Donato</name><desc>Tour day 6
 
 The heart of any Canadian visit to Italy. Of its 1,615 graves, 1,375 are Canadian, most from the December 1943 battles for the Moro, the Gully and Ortona. It stands on high ground between the river and the town, above the sea, close to where the fighting happened.
@@ -759,7 +759,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="42.349290" lon="14.406240"><name>DZC Santa Maria di Costantinopoli, Ortona</name><desc>Tour day 6
 
 In this damaged church on 25 December 1943 the Seaforth Highlanders of Canada held their Christmas dinner in the middle of the battle, companies coming back from the line in turns while the fighting went on a few hundred metres away. The dinner became one of Canada's best-known war stories.
@@ -770,7 +770,7 @@ Accuracy: MEDIUM — right area, exact spot uncertain.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.240970" lon="13.765890"><name>DZC Minturno War Cemetery, Marina di Minturno</name><desc>Tour day 7
 
 More than 2,000 Commonwealth soldiers lie here, most of them killed in the crossing of the Garigliano in January 1944 and in the fighting for the hills beyond. It is the natural first stop on the Gustav Line: quiet, beautifully kept and only a few hundred metres from the river they crossed.
@@ -781,7 +781,7 @@ Accuracy: MEDIUM — right area, exact spot uncertain.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.301660" lon="13.820410"><name>DZC Museo Linea Gustav, Castelforte</name><desc>Tour day 7
 
 A small volunteer-run museum in a town that was almost wiped out. The British 56th Division fought at its gates in January 1944, and the French took it in May. The collection tells the story of the Garigliano front from the viewpoint of the civilians who lived through it.
@@ -792,7 +792,7 @@ Accuracy: MEDIUM — right area, exact spot uncertain.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.490020" lon="14.054920"><name>DZC French Military Cemetery, Venafro</name><desc>Tour day 7
 
 The largest French war cemetery in Italy, with the graves of between about 3,400 and over 5,000 soldiers (sources differ, partly because graves from Naples were moved here in 1990–91) of the French Expeditionary Corps, many of them Moroccans, Algerians and Tunisians buried beneath headstones marked for their faith. A detour for those who want to see all the nations who fought for Cassino.
@@ -803,7 +803,7 @@ Accuracy: MEDIUM — right area, exact spot uncertain.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.493910" lon="13.805750"><name>DZC Polish War Cemetery and Memorial Museum, Monte Cassino</name><desc>Tour day 8
 
 More than 1,000 soldiers of General Anders' Polish II Corps lie in this amphitheatre-shaped cemetery facing the abbey; Anders himself was buried among them in 1970. Many of these men had come to Italy via Soviet camps and the Middle East, and could never go home to a free Poland.
@@ -814,7 +814,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.483860" lon="13.828690"><name>DZC Historiale museum, Cassino</name><desc>Tour day 8
 
 Opened in 2004 for the battle's 60th anniversary, the Historiale is Cassino's own multimedia museum, with rooms designed by the Oscar-winning effects artist Carlo Rambaldi. It explains the Gustav Line, the bombing and what the town's 20,000 inhabitants endured, a story easily lost among the military cemeteries.
@@ -825,7 +825,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.477560" lon="13.827140"><name>DZC Cassino War Cemetery and Memorial</name><desc>Tour day 8
 
 The largest Commonwealth cemetery in Italy: 4,271 graves, with the Cassino Memorial naming more than 4,000 soldiers of the Italian campaign who have no known grave. British, New Zealand, Indian, Canadian, South African and Gurkha soldiers lie together below the mountain they fought for.
@@ -836,7 +836,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.531300" lon="13.822990"><name>DZC German War Cemetery, Caira</name><desc>Tour day 8
 
 About 20,000 German soldiers who died in southern Italy lie on the terraced slope of Colle Marino, gathered here from many field graves in 1959–60. The paratroopers who held Cassino are among them. It is a sober counterpart to the Allied cemeteries in the valley.
@@ -847,7 +847,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.442570" lon="12.985800"><name>DZC Piana delle Orme museum, near Latina</name><desc>Tour day 9
 
 A huge private museum of 20th-century life in the Pontine plain, with large pavilions on the Second World War: dioramas of the Anzio landing and Cassino, and a big collection of vehicles. Good for families and vehicle enthusiasts, though less focused than the museums at Anzio.
@@ -858,7 +858,7 @@ Accuracy: AREA — centre of a wider area.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.481940" lon="12.625000"><name>DZC Beach Head War Cemetery, Anzio</name><desc>Tour day 9
 
 2,316 Commonwealth soldiers lie here, most killed in the defensive battles of February and March 1944 along the Via Anziate. Most are British, with Canadians, South Africans, Australians, Indians and New Zealanders among them. It lies on the road the Germans were trying to reach.
@@ -869,7 +869,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.455470" lon="12.623180"><name>DZC Anzio War Cemetery</name><desc>Tour day 9
 
 A smaller Commonwealth cemetery of 1,056 graves on the edge of Anzio, begun just after the landings. Many here were killed in the first weeks: the landing, the advance on Campoleone and the fighting round the Factory. It is often quieter than the larger Beach Head cemetery.
@@ -880,7 +880,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.450100" lon="12.630190"><name>DZC Museo dello Sbarco di Anzio (Villa Adele)</name><desc>Tour day 9
 
 The town's landing museum, opened for the 50th anniversary, with American, British, German and Italian sections: uniforms, weapons, documents, maps and objects raised from the sea, including from the British cruiser HMS Spartan and destroyer HMS Janus, both sunk off the beachhead.
@@ -891,7 +891,7 @@ Accuracy: MEDIUM — right area, exact spot uncertain.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.456620" lon="12.655990"><name>DZC Museo dello Sbarco Alleato, Forte Sangallo, Nettuno</name><desc>Tour day 9
 
 Inside a Renaissance fort built in 1501 on the Nettuno seafront, this museum of the Allied landing displays uniforms, helmets, documents, photographs and material found around Anzio and Nettuno. The fort itself watched the landing ships arrive on 22 January 1944.
@@ -902,7 +902,7 @@ Accuracy: MEDIUM — right area, exact spot uncertain.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.464720" lon="12.661940"><name>DZC Sicily–Rome American Cemetery and Memorial, Nettuno</name><desc>Tour day 9
 
 7,858 Americans lie here, killed from Sicily to just north of Rome, with 3,095 names of the missing on the chapel walls. The site is on ground captured by the US 3rd Division on 22 January. Its visitor centre and map room explain the whole campaign clearly.
@@ -913,7 +913,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.888610" lon="12.506390"><name>DZC Museo storico della Liberazione, Via Tasso</name><desc>Tour day 10
 
 The building where Herbert Kappler's security police imprisoned and tortured some 2,000 people during the occupation, among them many of the Fosse Ardeatine victims. The cells are preserved with the prisoners' messages scratched on the walls, and the museum is the best place in Rome to understand the occupation.
@@ -924,7 +924,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.876670" lon="12.481390"><name>DZC Porta San Paolo, Rome</name><desc>Tour day 10
 
 On 10 September 1943, two days after the armistice, Italian soldiers and armed civilians fought German troops at this Roman gate in a last attempt to keep them out of the city. It is remembered as the first act of the Roman Resistance, and plaques on the walls honour those who fell.
@@ -935,7 +935,7 @@ Accuracy: HIGH — exact spot known.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.875020" lon="12.477240"><name>DZC Rome War Cemetery, Testaccio</name><desc>Tour day 10
 
 A small, walled Commonwealth cemetery of 426 graves, used mainly for the garrison after the liberation, with some soldiers and airmen who died as prisoners in Rome. It sits in a quiet corner of Testaccio beside the Protestant Cemetery and a short walk from Porta San Paolo.
@@ -946,7 +946,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.892300" lon="12.477700"><name>DZC Portico d'Ottavia and the Jewish Ghetto</name><desc>Tour day 10
 
 Before dawn on 16 October 1943 German police rounded up 1,259 people in Rome, most of them here in the old Ghetto; 1,023 were deported to Auschwitz, and only 16 came back. The square outside the Roman portico is now Largo 16 Ottobre 1943.
@@ -957,7 +957,7 @@ Accuracy: MEDIUM — right area, exact spot uncertain.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="41.902100" lon="12.488700"><name>DZC Via Rasella, Rome</name><desc>Tour day 10
 
 Here on 23 March 1944 partisans of the GAP set off a bomb hidden in a rubbish cart as a column of the German police regiment 'Bozen' marched past. Thirty-three policemen and several civilians died. The attack led directly to the Fosse Ardeatine massacre the next day.
@@ -968,7 +968,7 @@ Accuracy: MEDIUM — right area, exact spot uncertain.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="43.484070" lon="11.790360"><name>DZC Arezzo War Cemetery, Indicatore</name><desc>Tour day 11
 
 Arezzo was defended hard in early July 1944 and taken on 16 July by the British 6th Armoured and 2nd New Zealand Divisions. The cemetery holds 1,266 Commonwealth burials from the advance up the upper Arno; plots VII to IX contain the graves of soldiers of the 4th and 8th Indian Divisions, a reminder of how many Indian troops fought in Tuscany.
@@ -979,7 +979,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="43.769760" lon="11.342580"><name>DZC Florence War Cemetery, Girone</name><desc>Tour day 11
 
 In the Arno valley just east of the city, this cemetery holds 1,632 Commonwealth burials, most of them men killed between July and September 1944 in the approach to Florence and the fighting on the Arno line. The site was chosen in November 1944 for burials from nearby hospitals; 83 graves were later moved here from the Arrow Route cemetery.
@@ -990,7 +990,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="43.769400" lon="11.256100"><name>DZC Palazzo Vecchio and Piazza della Signoria, Florence</name><desc>Tour day 11
 
 On 11 August 1944, as the Germans withdrew north of the city, the ringing of the Martinella bell in the Palazzo Vecchio tower signalled the rising of Florence's partisans and the Tuscan liberation committee. Fighting went on in the northern suburbs for weeks, with snipers, shelling and more than 600 civilians killed during the battle for the city.
@@ -1001,7 +1001,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="43.691830" lon="11.210430"><name>DZC Florence American Cemetery, Tavarnuzze</name><desc>Tour day 12
 
 The only American Second World War cemetery north of Rome holds 4,402 US dead, most of them killed after Rome fell, in the Gothic Line battles and the final push to the Alps. The Tablets of the Missing list 1,409 names. Many men of the 85th, 88th and 91st Divisions who fell at Il Giogo, today's next stop, lie here.
@@ -1012,7 +1012,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="44.024910" lon="11.370200"><name>DZC MuGot — Museo Gotica Toscana, Ponzalla</name><desc>Tour day 12
 
 A volunteer-run museum founded in 2019 between the Futa and Giogo passes, telling the story of the 1944 battles in the Mugello through documents, filmed testimonies, uniforms and recovered equipment. Its guides also lead visits to the battlefields and bunkers of the Gothic Line, so it is the best place to get oriented before climbing to the passes.
@@ -1023,7 +1023,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="44.096780" lon="11.271650"><name>DZC German War Cemetery, Futa Pass</name><desc>Tour day 12
 
 Italy's largest German war cemetery holds more than 30,600 dead, gathered from across the region, in terraces spiralling up a hilltop on the old Gothic Line. Designed by Dieter Oesterlen and dedicated in 1969, its 2 km stone wall climbs to a sharp prow-like summit. The graves are of the defenders of the Line, and of men from every Italian front after Rome.
@@ -1034,7 +1034,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="44.341060" lon="11.204590"><name>DZC Sacrario dei Caduti, Marzabotto</name><desc>Tour day 12
 
 Inaugurated in the early 1960s in the crypt of the parish church of Saints Joseph and Charles, the shrine holds the remains of hundreds of victims of the Monte Sole massacre and of partisans killed in the area. Plaques honour those decorated for their sacrifice, among them the priest Don Giovanni Fornasini and the Stella Rossa commander Mario 'Lupo' Musolesi.
@@ -1045,7 +1045,7 @@ Accuracy: MEDIUM — right area, exact spot uncertain.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="44.474080" lon="11.400510"><name>DZC Polish War Cemetery, Bologna (San Lazzaro)</name><desc>Tour day 13
 
 Here lie 1,432 soldiers of General Anders' Polish II Corps who died in 1944–45, many in the last offensive and the drive on Bologna, which Polish troops entered on 21 April 1945. The inscription reads that they fell on Italian soil fighting for a free Poland, a cause that, for most of them, the peace did not deliver.
@@ -1056,7 +1056,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="43.941060" lon="12.782380"><name>DZC Gradara War Cemetery</name><desc>Tour day 13
 
 The cemetery holds 1,191 Commonwealth burials (and one Belgian) from the advance from Ancona to Rimini, which broke the Gothic Line, and from the heavy fighting around Rimini until its capture on 21 September 1944. Canadian, British and other Commonwealth soldiers who fought through this coastal sector lie side by side.
@@ -1067,7 +1067,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="43.859150" lon="12.689480"><name>DZC Montegridolfo and the Museo della Linea dei Goti</name><desc>Tour day 13
 
 The walled hilltop village taken on 31 August 1944, where Lieutenant Gerard Norton won the Victoria Cross. A small local museum 300 metres from the centre gathers newspapers, photographs, weapons and everyday objects from 1943–44, many donated by villagers, telling the story of the Gothic Line from both sides and from the civilians caught between them.
@@ -1078,7 +1078,7 @@ Accuracy: HIGH — exact spot known.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="43.903930" lon="12.580910"><name>DZC Gemmano — &quot;the Cassino of the Adriatic&quot;</name><desc>Tour day 13
 
 Between 4 and 15 September 1944 this hilltop village and the heights around it were attacked again and again by British 46th and 56th Divisions before the 4th Indian Division took the last positions on 15 September. The German mountain troops holding it suffered heavily, and more than 100 villagers were killed, many by naval shelling.
@@ -1089,7 +1089,7 @@ Accuracy: MEDIUM — right area, exact spot uncertain.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="43.984850" lon="12.604040"><name>DZC Coriano Ridge War Cemetery</name><desc>Tour day 13
 
 The largest Commonwealth cemetery of the Adriatic Gothic Line: 1,939 burials, among them 1,413 British, 427 Canadian, 52 New Zealand and 28 South African. It lies on the slopes of the ridge fought over from 4 to 13 September 1944; in the week after its capture Eighth Army was losing some 150 killed a day. The cemetery was begun in April 1945.
@@ -1100,7 +1100,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="44.005230" lon="12.543110"><name>DZC Rimini Gurkha War Cemetery, Cerasolo</name><desc>Tour day 13
 
 A quiet cemetery of 618 soldiers of the Indian Army, many of them Gurkhas, who died in the autumn 1944 fighting around Rimini and San Marino. It also holds the Rimini Cremation Memorial, one of three in Italy, naming 172 soldiers of the Indian Army whose bodies were cremated in accordance with their faith.
@@ -1111,7 +1111,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="44.059440" lon="12.568330"><name>DZC Rimini — the liberated city</name><desc>Tour day 13
 
 Rimini was bombed from November 1943 onwards and about 82 per cent of its buildings were destroyed, the highest share among Italy's larger cities. On the morning of 21 September 1944 the 3rd Greek Mountain Brigade, fighting with I Canadian Corps, entered the abandoned city; the brigade was afterwards known as the Rimini Brigade.
@@ -1122,7 +1122,7 @@ Accuracy: MEDIUM — right area, exact spot uncertain.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="44.507570" lon="12.038640"><name>DZC Museo della Battaglia del Senio, Alfonsine</name><desc>Tour day 14
 
 For the winter of 1944–45 the front lay along the high embankments of the Senio, with Germans and Allies sometimes on opposite sides of the same levee. Alfonsine was liberated on 10 April 1945, the day after the final offensive began. The museum, founded in 1981, covers the Allied operations, the Romagna partisans and civilian life under occupation.
@@ -1133,7 +1133,7 @@ Accuracy: MEDIUM — right area, exact spot uncertain.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="44.694780" lon="12.181940"><name>DZC Lake Comacchio — the commandos' battlefield</name><desc>Tour day 14
 
 In early April 1945 British commandos and the Special Boat Service opened the offensive on the spit and lagoons of Lake Comacchio. Corporal Tom Hunter of 43 Commando and Major Anders Lassen, a Dane serving with the SBS, won posthumous Victoria Crosses here; both are buried at Argenta. The lagoon's eastern side became the right flank of the drive on Argenta.
@@ -1144,7 +1144,7 @@ Accuracy: AREA — centre of a wider area.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="44.634140" lon="11.831900"><name>DZC Argenta Gap War Cemetery</name><desc>Tour day 14
 
 The cemetery of the last hard battle in Italy holds 625 Commonwealth burials, most of them men killed in the Argenta Gap and around Lake Comacchio in April 1945. Among them are Anders Lassen VC, Tom Hunter VC and the George Cross holder Arthur Banks, an RAF pilot who fought alongside Italian partisans.
@@ -1155,7 +1155,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="44.887000" lon="11.608000"><name>DZC The Po at Pontelagoscuro, Ferrara</name><desc>Tour day 14
 
 By 23–24 April 1945 the German armies were pinned against the Po with every bridge down. Eighth Army's 8th Indian, 56th and 2nd New Zealand Divisions crossed from 24 April with little opposition, while upstream the 6th South African Armoured Division crossed with the US Fifth Army; the banks were littered with abandoned guns and vehicles. The Adige followed on 27 April.
@@ -1166,7 +1166,7 @@ Accuracy: AREA — centre of a wider area.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="43.945000" lon="10.943060"><name>DZC Brazilian Votive Monument, Pistoia</name><desc>Tour day 12
 
 The Brazilian Expeditionary Force buried its dead here, 463 men, until they were repatriated to Rio de Janeiro in 1960. A modernist votive monument by Olavo Redig de Campos, opened in 1967, now marks the site, with the tomb of an unknown Brazilian soldier.
@@ -1177,7 +1177,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="44.092110" lon="10.490610"><name>DZC Sommocolonia — Lieutenant Fox memorial</name><desc>Tour day 12
 
 In this Garfagnana hill village about 70 soldiers of the African-American 92nd 'Buffalo' Division and 25 Italian partisans were overrun on 26 December 1944. Lieutenant John Fox called artillery fire onto his own position to cover the withdrawal and was killed; his Medal of Honor came only in 1997.
@@ -1188,7 +1188,7 @@ Accuracy: Documented site.
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Flag, Blue</sym><type>Tour stops</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 <wpt lat="44.312330" lon="11.196340"><name>DZC Monte Sole Historical Park</name><desc>Marzabotto
 
 A regional park created in 1989 on the massif where about 770 civilians were killed between 29 September and 5 October 1944. Marked paths link the ruined churches, hamlets and cemeteries of Casaglia, San Martino, Caprara and Cerpiano. The Scuola di Pace Monte Sole and the Il Poggiolo visitor centre run guided visits and education programmes.
@@ -1197,5 +1197,5 @@ Allow: 1 hr 30 min – half day
 
 Guide: https://dzcharlie.com/into-europe/
 
-DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Museum</sym><type>Museums</type></wpt>
+DZ Charlie · dzcharlie.com</desc><link href="https://dzcharlie.com/into-europe/"><text>Open the guide</text></link><sym>Museum</sym><type>Museums</type><extensions><gpxx:WaypointExtension><gpxx:Categories><gpxx:Category>DZ Charlie</gpxx:Category></gpxx:Categories></gpxx:WaypointExtension></extensions></wpt>
 </gpx>
